@@ -1,0 +1,34 @@
+#EXTM3U
+
+# --- LA CASA DE LOS FAMOSOS USA ---
+#EXTINF:-1 group-title="LCDLF USA", LA CASA DE LOS FAMOSOS USA
+http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/179560.m3u8
+
+# --- GRAN HERMANO ARGENTINA ---
+#EXTINF:-1 group-title="GH ARGENTINA", GH ARGENTINA: 24 HORAS
+http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/184317.m3u8
+#EXTINF:-1 group-title="GH ARGENTINA", GH ARGENTINA: EXPERIENCIA MULTICAMARA
+http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/184321.m3u8
+#EXTINF:-1 group-title="GH ARGENTINA", GH ARGENTINA: CAMARA 1
+http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/184318.m3u8
+#EXTINF:-1 group-title="GH ARGENTINA", GH ARGENTINA: CAMARA 2
+http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/184319.m3u8
+#EXTINF:-1 group-title="GH ARGENTINA", GH ARGENTINA: CAMARA 3
+http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/184320.m3u8
+
+# --- LA CASA DE LOS FAMOSOS COLOMBIA ---
+#EXTINF:-1 group-title="LCDLF COLOMBIA", LCDLF COLOMBIA: PRINCIPAL
+http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/187987.m3u8
+#EXTINF:-1 group-title="LCDLF COLOMBIA", LCDLF COLOMBIA: MAIN (ALT)
+http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/166110.m3u8
+#EXTINF:-1 group-title="LCDLF COLOMBIA", LCDLF COLOMBIA: SALA
+http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/166111.m3u8
+#EXTINF:-1 group-title="LCDLF COLOMBIA", LCDLF COLOMBIA: COMEDOR
+http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/187986.m3u8
+#EXTINF:-1 group-title="LCDLF COLOMBIA", LCDLF COLOMBIA: HABITACION TORMENTA
+http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/187983.m3u8
+#EXTINF:-1 group-title="LCDLF COLOMBIA", LCDLF COLOMBIA: HABITACION CALMA
+http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/187985.m3u8
+#EXTINF:-1 group-title="LCDLF COLOMBIA", LCDLF COLOMBIA: BAÑOS
+http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/187984.m3u8
+
