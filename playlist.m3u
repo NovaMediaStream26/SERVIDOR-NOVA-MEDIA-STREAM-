@@ -1,6 +1,6 @@
 #EXTM3U
 
-# --- SECCIÓN UNIFICADA: EVENTOS 24/7 ---
+# --- SECCIÓN: EVENTOS 24/7 ---
 
 #EXTINF:-1 group-title="EVENTOS 24/7", LCDLF USA: PRINCIPAL
 http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/179560.m3u8
@@ -40,3 +40,44 @@ http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/187985.m3u8
 
 #EXTINF:-1 group-title="EVENTOS 24/7", LCDLF COLOMBIA: BAÑOS
 http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/187984.m3u8
+
+# --- SECCIÓN: SEASON PASS ---
+
+#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS LOBBY
+http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/20073.m3u8
+
+#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 1
+http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265895.m3u8
+
+#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 2
+http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265896.m3u8
+
+#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 3
+http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265897.m3u8
+
+#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 4
+http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265898.m3u8
+
+#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 5
+http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265899.m3u8
+
+#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 6
+http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265900.m3u8
+
+#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 7
+http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265901.m3u8
+
+#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 8
+http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265902.m3u8
+
+#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 9
+http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265903.m3u8
+
+#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 10
+http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265904.m3u8
+
+#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 11
+http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265905.m3u8
+
+#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 12
+http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265906.m3u8
