@@ -44,41 +44,187 @@ http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/187984.m3u8
 # --- SECCIÓN: SEASON PASS ---
 
 # --- NBA LEAGUE PASS ---
-#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS LOBBY
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/20073.m3u8
-#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 1
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265895.m3u8
-#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 2
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265896.m3u8
-#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 3
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265897.m3u8
-#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 4
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265898.m3u8
-#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 5
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265899.m3u8
-#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 6
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265900.m3u8
-#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 7
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265901.m3u8
-#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 8
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265902.m3u8
-#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 9
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265903.m3u8
-#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 10
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265904.m3u8
-#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 11
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265905.m3u8
-#EXTINF:-1 group-title="SEASON PASS", NBA: LEAGUE PASS 12
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265906.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS LOBBY
+http://212.102.60.231/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 1 (VPN)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 2
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 3
+http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/38227.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 4
+http://totalplay.site:8080/live/SantiagoVallecillo07/CMHawSKdKy/715170.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 5
+https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 6
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/28743.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 7
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/28744.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 8
+http://hardcoremedia.xyz/live/ymgiaxkw/5Hr5ZQuVfU/141498.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 9
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/23290.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 10
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/28738.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 11
+http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/217347.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 12
+https://d2otd2h2i5t24h.cloudfront.net/1080p-vtt/index.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 13
+https://dai.google.com/linear/hls/pa/event/_7B6SK31SD6gGeBNA3karA/stream/c630be65-1cf6-43cb-a870-a384a34920af:CBF2/variant/31e035002f06b5a5b794bab05191e799/bandwidth/1374000.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 14
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 15
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/49218.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 16
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/48335.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 17
+http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/217348.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 18
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/31581.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 19
+http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/217337.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 20
+http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/217341.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 21
+http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/217344.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 22
+http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/217344.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 23
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/31589.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 24
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47475.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 25
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/49214.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 26
+http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/217344.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 27
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 28
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/49221.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 29
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/49210.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 30
+https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NBA LEAGUE PASS 31
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/28742.m3u8
 
 # --- MLB PASS ---
-#EXTINF:-1 group-title="SEASON PASS", MLB: PASS LOBBY
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/21360.m3u8
-#EXTINF:-1 group-title="SEASON PASS", MLB: PASS 1
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265971.m3u8
-#EXTINF:-1 group-title="SEASON PASS", MLB: PASS 2
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265972.m3u8
-#EXTINF:-1 group-title="SEASON PASS", MLB: PASS 3
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265973.m3u8
-#EXTINF:-1 group-title="SEASON PASS", MLB: PASS 4
-http://fortv.cc:8080/live/lwattleyjr@gmail.com/lwattleyjr@2023/265974.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS LOBBY
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/2342.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 2
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/756.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 3
+https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 4
+http://totalplay.site:8080/live/SantiagoVallecillo07/CMHawSKdKy/715170.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 5
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 6
+http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/38227.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 7
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47105.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 8 (VPN)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 9 (VPN)
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 10
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 11
+http://212.102.60.231/SNY/index.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 12
+http://hardcoremedia.xyz/live/ymgiaxkw/5Hr5ZQuVfU/141497.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 13
+https://d1yhx4ygpfwmgm.cloudfront.net/v1/fast/nesnsamsungtvplus/772bf582-9476-4a30-a4c4-ba1c0839f167.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 14
+http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/217344.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 15
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47466.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 16
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47475.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 17
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/28738.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 18
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/28744.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 19
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/28742.m3u8
+#EXTINF:-1 group-title="SEASON PASS", MLB PASS 20
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47471.m3u8
+
+# --- NHL CENTER ICE ---
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE LOBBY (VPN) 
+https://nhl-firetv.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 1
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 2
+http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/38227.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 3
+http://totalplay.site:8080/live/SantiagoVallecillo07/CMHawSKdKy/715170.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 4 (VPN)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 5 (VPN)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 6 (VPN)
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 7
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/23290.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 8
+https://d1yhx4ygpfwmgm.cloudfront.net/v1/fast/nesnsamsungtvplus/772bf582-9476-4a30-a4c4-ba1c0839f167.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 9
+http://hardcoremedia.xyz/live/ymgiaxkw/5Hr5ZQuVfU/141497.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 10
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/48335.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 11
+https://d1yhx4ygpfwmgm.cloudfront.net/v1/fast/nesnsamsungtvplus/772bf582-9476-4a30-a4c4-ba1c0839f167.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 12
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/28738.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 13
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/28742.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 14
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/31589.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 15
+http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/217341.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 16
+https://d2otd2h2i5t24h.cloudfront.net/Victory_National.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 17
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40617.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 18
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40613.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 19
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40615.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 20
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40614.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 21
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15929.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 22
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15928.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 23
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15927.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 24
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15926.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 25
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15925.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NHL CENTER ICE 26
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/40758.m3u8
+
+# --- NFL GAME PASS ---
+#EXTINF:-1 group-title="SEASON PASS", NFL GAME PASS LOBBY 
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NFL GAME PASS 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NFL GAME PASS 2
+https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NFL GAME PASS 3
+https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
+#EXTINF:-1 group-title="SEASON PASS", NFL GAME PASS 4
+http://totalplay.site:8080/live/SantiagoVallecillo07/CMHawSKdKy/715170.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NFL GAME PASS 5
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NFL GAME PASS 6
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47105.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NFL GAME PASS 7
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
+#EXTINF:-1 group-title="SEASON PASS", NFL GAME PASS 8
+https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
