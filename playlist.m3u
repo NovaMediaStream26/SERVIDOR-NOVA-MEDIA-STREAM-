@@ -228,3 +228,214 @@ http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47105.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
 #EXTINF:-1 group-title="SEASON PASS", NFL GAME PASS 8
 https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
+
+# --- SECCIÓN: MÉXICO ---
+
+#EXTINF:-1 group-title="MÉXICO", 8NTV
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", 15TV
+https://servilive.com:3380/live/v3n6thy7glive.m3u8
+#EXTINF:-1 group-title="MÉXICO", ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="MÉXICO", ALCANCE TV
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", AMX NOTICIAS
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", ASI SUCEDE GUANAJUATO
+https://stream.ontvmx.com/ontv/zqlQBcV1Ey6od9bDi3/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", AZTECA 7 (VPN)
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="MÉXICO", AZTECA INTERNACIONAL
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 group-title="MÉXICO", AZTECA UNO (VPN)
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="MÉXICO", B15 FRESNILLO
+https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", B15 ZACATECAS
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", CANAL 5 TV COZUMEL
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
+#EXTINF:-1 group-title="MÉXICO", CANAL 10 CHIAPAS
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", CANAL 10 DURANGO
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", CANAL 15 ILCE SAMMA SABRE
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", CANAL 26 AGUASCALIENTES
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", CANAL 28
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", CANAL 33 TIJUANA
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", CANAL 44 CHIHUAHUA
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", CANAL 44 CIUDAD JUÁREZ
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", CANAL DEL PARLAMENTO DE JALISCO
+https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", CONECTA TV
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 group-title="MÉXICO", CREALA TV
+https://stream8.mexiserver.com:2000/hls/crealatv/crealatv.m3u8
+#EXTINF:-1 group-title="MÉXICO", DESPIERTA TV
+https://video2.lhdserver.es/despiertatv/live.m3u8
+#EXTINF:-1 group-title="MÉXICO", ECLIPSE TV
+https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
+#EXTINF:-1 group-title="MÉXICO", EL SONORENSE
+https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", EXPRESA TV
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", FORO TV
+https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8?hdntl=exp=1776900343~acl=/*~data=hdntl~hmac=87142f0ccc109ca464aa4034fbae0f190766e6f92faa5207fca5fc169488b103&
+#EXTINF:-1 group-title="MÉXICO", ICRTV COLIMA
+https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", IERTBCS CANAL 8.2 LA PAZ
+https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", IERTBCS CANAL 8 LA PAZ
+https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", JALISCO TV
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-1 group-title="MÉXICO", JUSTICIA TV
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", LAS ESTRELLAS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="MÉXICO", LOBO TV
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", MARIA VISION
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 group-title="MÉXICO", MEXIQUENSE
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", MONTE MARIA
+https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", MVS TV (VPN)
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 group-title="MÉXICO", NAYARIT COMUNICA
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+#EXTINF:-1 group-title="MÉXICO", NOTIGRAM
+https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", NUEVE TV SAN LUIS POTOSÍ
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+#EXTINF:-1 group-title="MÉXICO", ONCE MEXICO
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", PRESUMIENDO MÉXICO
+https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", RADIOTELE MORELIA
+http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8
+#EXTINF:-1 group-title="MÉXICO", RALY TV
+https://cloudvideo.servers10.com:8081/8072/index.m3u8
+#EXTINF:-1 group-title="MÉXICO", RCG TV
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", RTG
+https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", RTQ QUERÉTARO
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+#EXTINF:-1 group-title="MÉXICO", SEÑAL ESPAÑA
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 group-title="MÉXICO", SET TELEVISIÓN 26.1
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", SET TELEVISIÓN 26.2
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", SIPSE TV 8.1
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+#EXTINF:-1 group-title="MÉXICO", SIPSE TVCUN 8.1
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 group-title="MÉXICO", SISTEMA MICHOACANO DE TV
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", SIZART CANAL 24
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", SQCS CANAL 4
+https://video0.rogohosting.com:19360/4982/4982.m3u8
+#EXTINF:-1 group-title="MÉXICO", SUPER 9 TV
+https://usher.ttvnw.net/api/channel/hls/super9tv2026.m3u8?sig=4eee2f69117a332b10bbd4c48e18e028b922f3f4&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22super9tv2026%22%2C%22channel_id%22%3A1438829285%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22478c7b5a4f8fea7e%22%2C%22expires%22%3A1776817189%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.151.101.17%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%7D
+#EXTINF:-1 group-title="MÉXICO", SUPER CHANNEL 12
+https://servilive.com:3263/live/channel12live.m3u8
+#EXTINF:-1 group-title="MÉXICO", TELE SALTILLO
+https://servilive.com:3879/live/telesaltillolive.m3u8
+#EXTINF:-1 group-title="MÉXICO", TELE UV
+https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TELE YUCATÁN
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TELEFORMULA
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 group-title="MÉXICO", TELEMAX
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TELEPLAY SURESTE
+https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TELERITMO
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="MÉXICO", TLAXCALA TELEVISIÓN
+https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
+#EXTINF:-1 group-title="MÉXICO", TRANSMEDIA TELEVISIÓN
+http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TRC TELEVISIÓN
+https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TURISTIK TV
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TV BUAP
+https://tvenvivo.buap.mx/livestream/stream/index.m3u8
+#EXTINF:-1 group-title="MÉXICO", TV CUATRO 4.1
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 group-title="MÉXICO", TV CUATRO 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1 group-title="MÉXICO", TV GUANAJUATO
+https://live-ak.vimeocdn.com/exp=1776820644~acl=%2Fe459e19e-5c43-403e-8999-52f95af9a623_fmp4%2F%2A~hmac=268bd3e4482d751ee545c1bf7a360d530fe5f3f99591ac1f62fc7d368f570773/e459e19e-5c43-403e-8999-52f95af9a623_fmp4/avc/hls.m3u8
+#EXTINF:-1 group-title="MÉXICO", TV INDEPENDENCIA
+https://live-ak.vimeocdn.com/exp=1776820839~acl=%2F0dffdcb1-4e37-426a-8a63-91cb4992f23c%2F%2A~hmac=6360ddf9278bf0ae26ec3e41ae8d0f7d8b841bae32d501fb2e08153159df4532/0dffdcb1-4e37-426a-8a63-91cb4992f23c/avc/hls.m3u8
+#EXTINF:-1 group-title="MÉXICO", TV LOBO DURANGO
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TV MAR LA PAZ
+https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TV MAR LOS CABOS
+https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TV MAR PUERTO VALLARTA
+https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TV NUEVO LEÓN
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TV UG
+https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TV UJAT
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TVMAS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TVP CULIACÁN
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TVP LOS MOCHIS
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TVP MAZATLAN
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TVP OBREGÓN
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", ULTRA TV PUEBLA
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", UMTV
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", VB MEDIA TV
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1 group-title="MÉXICO", VISION TELEVISIÓN
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+#EXTINF:-1 group-title="MÉXICO", ZAZ
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1 group-title="MÉXICO", ESTRELLA GAMES
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", ESTRELLA NEWS
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", ESTRELLA TV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", MILENIO TELEVISIÓN
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 group-title="MÉXICO", MULTIMEDIOS BAJIO
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:-1 group-title="MÉXICO", MULTIMEDIOS CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 group-title="MÉXICO", MULTIMEDIOS CIUDAD JUÁREZ
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+#EXTINF:-1 group-title="MÉXICO", MULTIMEDIOS GUADALAJARA
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 group-title="MÉXICO", MULTIMEDIOS LAGUNA
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="MÉXICO", MULTIMEDIOS MONTERREY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="MÉXICO", MULTIMEDIOS PUEBLA
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:-1 group-title="MÉXICO", MULTIMEDIOS SALTILLO
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
