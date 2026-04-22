@@ -439,3 +439,104 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 group-title="MÉXICO", MULTIMEDIOS SALTILLO
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+
+# --- SECCIÓN: GUATEMALA ---
+
+#EXTINF:-1 group-title="GUATEMALA", AMIGOS TV CHIQUIMULA
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", AURORA MEDIA FILMS
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", CANAL 3
+https://library-getafix.fireclip.tv/660dc14adb8980d7e2926c0a/live/index.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", CANAL 6 PANADISH
+https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", CANAL 7
+https://d3r1d0jzdq322.cloudfront.net/original.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", CANAL 9 BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8 
+
+#EXTINF:-1 group-title="GUATEMALA", CANAL 11
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8256.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", CANAL 13 ESQUIPULAS
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", CANAL 27
+https://ch1-c27.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", CANAL 30 TV BETHEL
+https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", CANAL ANTIGUA
+https://5ca9af4645e15.streamlock.net:443/antigua/antigua.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", CANAL PENIEL
+https://s.emisoras.tv:8081/penielfamiliar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", CANAL TV RADIO MAYA TGBA
+https://s.emisoras.tv:8081/radiomaya/index.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", CARIÑOSA TV
+https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/playlist.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", EL ROI- TV
+https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", ESPÍRITU SANTO Y FE 
+https://inliveserver.com:1936/8392/8392/playlist.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", GUATEVISION
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8264.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", IGLESIA DEL CAMINO
+http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", MAXIVISIÓN
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", NIM TV
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", PENIEL KIDS
+https://s.emisoras.tv:8081/penielkids/index.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", PENIEL MUSICAL
+https://s.emisoras.tv:8081/penielmusical/index.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", PENIEL TV BIBLIA ABIERTA
+https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", PLENITUD TV
+https://stream.hispanatv.com/hls/penitudtv_f12148b2db2b.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", RHEMA TV
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", SIL TV
+https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", SOL TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", TN23
+https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_15609871089997455276_hls.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", TV FLORENCIA
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", TV MAYA
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", TVS RETRO
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", TV TUN
+https://tvstream.alojawebgt.net:3289/live/tvtunlive.m3u8
+
+#EXTINF:-1 group-title="GUATEMALA", VISION TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
