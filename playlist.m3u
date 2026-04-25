@@ -597,3 +597,128 @@ https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
 #EXTINF:-1 group-title="HONDURAS", VTV
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
+
+# --- SECCIÓN: INTERNACIONALES ---
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/La_1_2008.png" group-title="INTERNACIONALES", LA 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tve_internacional.png" group-title="INTERNACIONALES", TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", 24 HORAS ESPAÑA
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", LA 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", ANTENA 3
+http://181.114.57.246:4000/play/akjWPSp33R6D9dv3/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", EL TRECE
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 4 REPRETEL
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 6 REPRETEL
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", TELETICA
+http://181.78.109.48:9998/play/a02e/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 8 MULTIMEDIOS COSTA RICA
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 11 REPRETEL 
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 2 EL SALVADOR 
+https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 6 EL SALVADOR
+https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", ATV
+https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV PERÚ
+https://regionales.saohgdasregions.fun:9092/MTg2LjE1MS4xMDEuMTc=/20_.m3u8?token=KQS0eLjEk_kFyq4fjcWWHQ&expires=1777093236
+#EXTINF:-1 group-title="INTERNACIONALES", CARACOL TV 
+http://190.60.52.28:5001/play/a0g7/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", DW CHANNEL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", E! CHANNEL
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9646.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", ECUAVISA
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", GALAVISION
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8333.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", LATINA TV
+https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", PASIONES
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8335.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", RCN
+http://130.51.23.173:8030/hls/canal3.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", RT EN ESPAÑOL 
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", TLC
+http://209.126.106.30:8081/live/256c0d0ff9384c5684d4cccc54580379/262f7af457704e89896f9e17d6519e36/50.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", TELEFE
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", A24
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 group-title="INTERNACIONALES", UNIVISION
+http://181.114.57.246:4000/play/TR65WqDLpEby8nmy/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", WILLAX TV
+https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", TV PUBLICA ARGENTINA
+https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="INTERNACIONALES", EL NUEVE
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", ARGENTINISIMA
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", GARAGE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", LN+
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CIUDAD MAGAZINE
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/ciudadmagazine_720.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 3 ARGENTINA
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CRÓNICA TV
+https://g3.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 group-title="INTERNACIONALES", SKY NEWS ARABIA
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", SKY NEWS EXTRA 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", SKY NEWS EXTRA 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master_576p.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", SKY NEWS EXTRA 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", ATB LA PAZ
+https://stream.atb.com.bo/live/daniel/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", BOLIVISION
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", ATV+
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", AL JAZEERA
+https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV ARGENTINA
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 13 CHILE
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9889.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 13 CULTURA
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 13 FESTIVAL
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 13 GO
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 13 REALITIES
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 13 TELESERIES
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CHILEVISION
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9899.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", MEGA CHILE
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9918.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CNN CHILE
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9903.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", TVN CHILE
+http://217.26.190.76:8888/play/a0m6/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", UCV TV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", TV NOSARA
+https://latamvdo.com:3870/hybrid/play.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", RAI 1 ITALIA
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", NHK WORLD JAPAN
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
