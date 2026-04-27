@@ -912,3 +912,208 @@ http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9883.m3u8
 http://181.114.57.246:4000/play/LCE4K4Y28Qr2Z9AM/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", NICK JR
 http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9875.m3u8
+
+# --- SECCIÓN: DEPORTES ---
+
+#EXTINF:-1 group-title="DEPORTES", LIGA 1 MAX
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8457.m3u8
+#EXTINF:-1 group-title="DEPORTES", SKY SPORTS PREMIER LEAGUE
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47871.m3u8
+#EXTINF:-1 group-title="DEPORTES", SKY SPORTS LALIGA
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
+#EXTINF:-1 group-title="DEPORTES", REAL MADRID TV
+https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LALIGA
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/162017.m3u8
+#EXTINF:-1 group-title="DEPORTES", DAZN LALIGA
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/156156.m3u8
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS XTRA Ñ
+https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlistR1080p.m3u8
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15922.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR VAMOS
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8134.m3u8
+#EXTINF:-1 group-title="DEPORTES", AZTECA DEPORTES EN VIVO
+https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
+#EXTINF:-1 group-title="DEPORTES", DAZN F1
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161953.m3u8
+#EXTINF:-1 group-title="DEPORTES", DAZN COMBAT
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="DEPORTES", ECDF
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/109833.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR DEPORTES PERÚ 
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8461.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR DEPORTES ESPAÑA
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161878.m3u8
+#EXTINF:-1 group-title="DEPORTES", DSPORTS
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/88483.m3u8
+#EXTINF:-1 group-title="DEPORTES", DSPORTS +
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9557.m3u8
+#EXTINF:-1 group-title="DEPORTES", DSPORTS 2
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9564.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 1
+https://ve.streameasthd.net/espn/index.m3u8?token=59b485f130bb37c53e1d2b74325419a1e869cab7-94-1777287549-1777233549&ip=186.151.100.127
+#EXTINF:-1 group-title="DEPORTES", ESPN 2
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/157559.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 3
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/157560.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/157561.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 5
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9539.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 6
+http://181.114.57.246:4000/play/G5zcc3HYpdc5AjMs/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 7
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9543.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN PREMIUM
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/157562.m3u8
+#EXTINF:-1 group-title="DEPORTES", DAZN 1
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161922.m3u8
+#EXTINF:-1 group-title="DEPORTES", DAZN 2
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161923.m3u8
+#EXTINF:-1 group-title="DEPORTES", DAZN 3
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161925.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 ARGENTINA
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 ARGENTINA
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/179524.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 USA (VPN)
+https://v4.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=v6bs6hsuJoASJoI3-PQ0Kg&expires=1777272079&user_id=WGRtOU1hcHVnbExGaHFGWW9pQkl1Z2ZPUDdHMTVCSFh5blhOaEkzYw==
+#EXTINF:-1 group-title="DEPORTES", FIFA +
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", FUTV
+http://181.78.109.48:9998/play/a05x/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TIGO SPORTS COSTA RICA
+http://177.10.184.193:8000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", CLARO SPORTS
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 MÉXICO
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9578.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 MÉXICO
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9584.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9591.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS PREMIUM
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9593.m3u8
+#EXTINF:-1 group-title="DEPORTES", NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TNT SPORTS PREMIUM
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/157585.m3u8
+#EXTINF:-1 group-title="DEPORTES", TNT SPORTS PREMIUM CHILE
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/112994.m3u8
+#EXTINF:-1 group-title="DEPORTES", TNT SPORTS CHILE
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9929.m3u8
+#EXTINF:-1 group-title="DEPORTES", TUDN
+http://45.5.119.43:4000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TYC SPORTS 
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", WIN SPORTS
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8505.m3u8
+#EXTINF:-1 group-title="DEPORTES", WIN SPORTS +
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8510.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN COLOMBIA
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9516.m3u8
+#EXTINF:-1 group-title="DEPORTES", TNT USA (VPN)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN USA
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 USA
+http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/38227.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN NEWS USA
+http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2312.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN U USA
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", BIG TEN NETWORK 
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", CBS SPORTS NETWORK
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15944.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES (VPN)
+https://v4.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=1x99VmSGo2aZR8h1xRFUvA&expires=1777275348&user_id=WGRtOU1hcHVnbExGaHFGWW9pQkl1Z2ZPUDdHMTVCSFh5blhOaEkzYw==
+#EXTINF:-1 group-title="DEPORTES", FOX DEPORTES
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9571.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 USA
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/757.m3u8
+#EXTINF:-1 group-title="DEPORTES", GOLF CHANNEL
+http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR GOLF
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161954.m3u8
+#EXTINF:-1 group-title="DEPORTES", MLB NETWORK
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/2342.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOTORTREND
+https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", NFL NETWORK (VPN)
+https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
+#EXTINF:-1 group-title="DEPORTES", NFL RED ZONE (VPN)
+https://v4.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=daNjLSPwuNrHw-lD-ZCT8g&expires=1777276192&user_id=MTg2LjE1MS4xMDAuMTI3
+#EXTINF:-1 group-title="DEPORTES", NHL NETWORK
+https://nhl-firetv.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="DEPORTES", TENNIS CHANNEL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", TUDN USA
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
+#EXTINF:-1 group-title="DEPORTES", WWE NETWORK
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47642.m3u8
+#EXTINF:-1 group-title="DEPORTES", YES NETWORK
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ALTITUDE SPORTS
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/48335.m3u8
+#EXTINF:-1 group-title="DEPORTES", SPORTSNET PITTSBURGH 
+http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/59945.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SOCCER PLUS
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/162542.m3u8
+#EXTINF:-1 group-title="DEPORTES", UFC CHANNEL
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", SNY
+http://212.102.60.231/SNY/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", AYM SPORTS
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+#EXTINF:-1 group-title="DEPORTES", BALLY SPORTS DETROID
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/31589.m3u8
+#EXTINF:-1 group-title="DEPORTES", NBC BAY AREA (VPN)
+https://e1.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8?token=UW6JBUv-R1qIKONNg24zyA&expires=1777277185&user_id=MTg2LjE1MS4xMDAuMTI3
+#EXTINF:-1 group-title="DEPORTES", WORLD FISHING NETWORK
+https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=mDHh59pDPYW
+#EXTINF:-1 group-title="DEPORTES", SPORTSMAN CHANNEL
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/162586.m3u8
+#EXTINF:-1 group-title="DEPORTES", ITV DEPORTES
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 group-title="DEPORTES", TVC DEPORTES MÉXICO
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/87610.m3u8
+#EXTINF:-1 group-title="DEPORTES", PREMIERE 1
+http://cdn.arrascacrf.site:80/872730437447/587407912989/1479725.m3u8
+#EXTINF:-1 group-title="DEPORTES", PREMIERE 2
+http://cdn.arrascacrf.site:80/872730437447/587407912989/93538.m3u8
+#EXTINF:-1 group-title="DEPORTES", PREMIERE 3
+http://cdn.arrascacrf.site:80/872730437447/587407912989/93539.m3u8
+#EXTINF:-1 group-title="DEPORTES", PREMIERE 4
+http://cdn.arrascacrf.site:80/872730437447/587407912989/93540.m3u8
+#EXTINF:-1 group-title="DEPORTES", PREMIERE 5
+http://cdn.arrascacrf.site:80/872730437447/587407912989/93541.m3u8
+#EXTINF:-1 group-title="DEPORTES", PREMIERE 6
+http://cdn.arrascacrf.site:80/872730437447/587407912989/93542.m3u8
+#EXTINF:-1 group-title="DEPORTES", PREMIERE 7
+http://cdn.arrascacrf.site:80/872730437447/587407912989/93544.m3u8
+#EXTINF:-1 group-title="DEPORTES", VTV PLUS
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8542.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 1 MÉXICO
+http://45.5.119.43:4000/play/a052/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 MÉXICO
+http://45.5.119.43:4000/play/a053/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 MÉXICO
+http://45.5.119.43:4000/play/a054/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 MÉXICO
+http://181.114.57.246:4000/play/zxCvBnM159QsGhk5/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", CAZA Y PESCA
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161974.m3u8
+#EXTINF:-1 group-title="DEPORTES", TELEDEPORTE
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
+#EXTINF:-1 group-title="DEPORTES", EUROSPORT 1
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161908.m3u8
+#EXTINF:-1 group-title="DEPORTES", EUROSPORT 2
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8181.m3u8
+#EXTINF:-1 group-title="DEPORTES", FIGHT BOX
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9570.m3u8
+#EXTINF:-1 group-title="DEPORTES", GOL
+http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8187.m3u8
