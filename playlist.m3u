@@ -920,7 +920,7 @@ http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8458.m3u8
 #EXTINF:-1 group-title="DEPORTES", SKY SPORTS PREMIER LEAGUE
 http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47871.m3u8
 #EXTINF:-1 group-title="DEPORTES", SKY SPORTS LALIGA
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
+http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", REAL MADRID TV
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 #EXTINF:-1 group-title="DEPORTES", MOVISTAR LALIGA
