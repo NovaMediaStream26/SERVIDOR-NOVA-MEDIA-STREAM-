@@ -579,7 +579,7 @@ https://amixtv.com:8081/rtvhn/index.fmp4.m3u8
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", TELECEIBA
 https://teleceiba.com/stream/tlcb720.m3u8
-#EXTINF:-1 group-title="HONDURAS", TELEDANLI 2
+#EXTINF:-1 group-title="HONDURAS", TELEDANLI
 https://live20.bozztv.com/giatv/giatv-canal9/canal9/chunks.m3u8
 #EXTINF:-1 group-title="HONDURAS", TELEMÁS
 https://viewhn.com/telemas/live/playlist.m3u8
@@ -620,9 +620,9 @@ http://181.114.57.246:4000/play/akjWPSp33R6D9dv3/index.m3u8
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 4 REPRETEL
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="INTERNACIONALES", CANAL 6 REPRETEL
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 6 REPRETEL 
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="INTERNACIONALES", TELETICA
+#EXTINF:-1 group-title="INTERNACIONALES", TELETICA 6
 http://181.78.109.48:9998/play/a02e/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 8 MULTIMEDIOS COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
