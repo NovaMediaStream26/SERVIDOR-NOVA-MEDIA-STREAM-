@@ -449,6 +449,8 @@ http://187.245.231.226:8000/play/a0v2/index.m3u8
 http://187.245.231.226:8000/play/a0uv/index.m3u8
 #EXTINF:-1 group-title="MÉXICO", UNICABLE
 http://45.171.64.30:2000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="MÉXICO", DE PELÍCULA
+http://45.167.2.101:8000/play/a0ru/index.m3u8
 
 # --- SECCIÓN: GUATEMALA ---
 
