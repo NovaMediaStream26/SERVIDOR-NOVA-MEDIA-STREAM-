@@ -740,11 +740,11 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 # --- SECCIÓN: TV PREMIUM ---
 
 #EXTINF:-1 group-title="TV PREMIUM", AXN
-http://181.114.57.246:4000/play/8Cq8VftfuLDUjBSh/index.m3u8
+http://200.229.147.142:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AXN 2
-http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/9624.m3u8
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TELEMUNDO 
-http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TNT
 http://45.5.119.43:4000/play/a0hu/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TNT SERIES
