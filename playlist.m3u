@@ -643,7 +643,7 @@ https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ATV
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV PERÚ
-https://regionales.saohgdasregions.fun:9092/MTg2LjE1MS4xMDEuMTc=/20_.m3u8?token=KQS0eLjEk_kFyq4fjcWWHQ&expires=1777093236
+http://38.252.215.33:8000/play/a08j/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CARACOL TV 
 http://190.60.52.28:5001/play/a0g7/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", DW CHANNEL
