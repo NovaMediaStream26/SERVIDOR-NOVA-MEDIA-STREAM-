@@ -286,7 +286,7 @@ https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", EXPRESA TV
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", FORO TV
-https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8?hdntl=exp=1776900343~acl=/*~data=hdntl~hmac=87142f0ccc109ca464aa4034fbae0f190766e6f92faa5207fca5fc169488b103&
+http://185.56.109.253/ForoTv/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", ICRTV COLIMA
 https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", IERTBCS CANAL 8.2 LA PAZ
