@@ -669,7 +669,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlis
 #EXTINF:-1 group-title="INTERNACIONALES", A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 #EXTINF:-1 group-title="INTERNACIONALES", UNIVISION
-http://181.114.57.246:4000/play/TR65WqDLpEby8nmy/index.m3u8
+http://45.167.2.101:8000/play/a0la/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", WILLAX TV
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TV PUBLICA ARGENTINA
