@@ -772,7 +772,7 @@ http://45.173.74.2:2010/play/a09m/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HISTORY
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", NATIONAL GEOGRAPHIC
-http://181.114.57.246:4000/play/TQqUqLTut8Hk4F89/index.m3u8
+http://200.115.98.26:7000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", A&E
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AMC
