@@ -760,7 +760,7 @@ http://200.115.98.26:7000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY SCIENCE
 http://200.115.98.26:7000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY THEATER
-http://181.114.57.246:4000/play/rDeXCAhrZdLmXQ7Y/index.m3u8
+http://177.10.184.193:8000/play/a09n/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY TURBO
 http://209.126.106.30:8081/live/ec28fafc47544120aa0a1d3f050ba67f/d4755e72041443f0a9ea8d9186502130/48.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY WORLD
