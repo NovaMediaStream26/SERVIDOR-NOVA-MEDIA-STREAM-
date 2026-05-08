@@ -868,9 +868,7 @@ http://190.14.249.223:17032/play/a06e/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SHOWTIME
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SONY MOVIES
-http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/5831.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", SYFY
-http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/162015.m3u8
+http://181.119.108.27:7292/play/a03s/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", GLITZ
 http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/9794.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ETC
