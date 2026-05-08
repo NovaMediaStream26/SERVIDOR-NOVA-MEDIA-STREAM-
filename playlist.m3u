@@ -856,7 +856,7 @@ http://190.14.249.223:17032/play/a04z/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DHE
 http://200.115.98.26:7000/play/a04z/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", BANDAMAX
-http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/8307.m3u8
+http://45.171.64.30:2000/play/a08h/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", BITME
 http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/87592.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINE LATINO
