@@ -893,7 +893,7 @@ http://190.14.249.223:17032/play/a049/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", DISNEY JUNIOR
 http://190.14.249.223:17032/play/a04a/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", NICKELODEON
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9879.m3u8
+http://200.62.239.162:8000/play/a05j/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", TOONCAST
 http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9883.m3u8
 #EXTINF:-1 group-title="INFANTILES", BABY TV
