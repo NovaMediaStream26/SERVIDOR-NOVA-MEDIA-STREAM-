@@ -904,7 +904,7 @@ http://45.167.2.138:8000/play/a0qw/index.m3u8
 # --- SECCIÓN: DEPORTES ---
 
 #EXTINF:-1 group-title="DEPORTES", LIGA 1 MAX
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8458.m3u8
+http://8.243.126.131:8000/play/a063/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", SKY SPORTS PREMIER LEAGUE
 http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47871.m3u8
 #EXTINF:-1 group-title="DEPORTES", SKY SPORTS LALIGA
