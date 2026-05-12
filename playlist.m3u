@@ -909,24 +909,16 @@ http://8.243.126.131:8000/play/a063/index.m3u8
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", REAL MADRID TV
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
-#EXTINF:-1 group-title="DEPORTES", MOVISTAR LALIGA
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/162017.m3u8
-#EXTINF:-1 group-title="DEPORTES", DAZN LALIGA
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/156156.m3u8
 #EXTINF:-1 group-title="DEPORTES", BEIN SPORTS XTRA Ñ
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlistR1080p.m3u8
 #EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15922.m3u8
-#EXTINF:-1 group-title="DEPORTES", MOVISTAR VAMOS
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8134.m3u8
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", AZTECA DEPORTES EN VIVO
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
-#EXTINF:-1 group-title="DEPORTES", DAZN F1
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161953.m3u8
 #EXTINF:-1 group-title="DEPORTES", DAZN COMBAT
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", ECDF
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/109833.m3u8
+http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/2363.m3u8
 #EXTINF:-1 group-title="DEPORTES", MOVISTAR DEPORTES PERÚ 
 http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8461.m3u8
 #EXTINF:-1 group-title="DEPORTES", MOVISTAR DEPORTES ESPAÑA
