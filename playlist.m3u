@@ -1057,8 +1057,6 @@ http://cdn.arrascacrf.site:80/872730437447/587407912989/93541.m3u8
 http://cdn.arrascacrf.site:80/872730437447/587407912989/93542.m3u8
 #EXTINF:-1 group-title="DEPORTES", PREMIERE 7
 http://cdn.arrascacrf.site:80/872730437447/587407912989/93544.m3u8
-#EXTINF:-1 group-title="DEPORTES", VTV PLUS
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8542.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 1 MÉXICO
 http://45.5.119.43:4000/play/a052/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2 MÉXICO
@@ -1067,15 +1065,5 @@ http://45.5.119.43:4000/play/a053/index.m3u8
 http://45.5.119.43:4000/play/a054/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 4 MÉXICO
 http://181.114.57.246:4000/play/zxCvBnM159QsGhk5/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", CAZA Y PESCA
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161974.m3u8
 #EXTINF:-1 group-title="DEPORTES", TELEDEPORTE
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
-#EXTINF:-1 group-title="DEPORTES", EUROSPORT 1
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161908.m3u8
-#EXTINF:-1 group-title="DEPORTES", EUROSPORT 2
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8181.m3u8
-#EXTINF:-1 group-title="DEPORTES", FIGHT BOX
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9570.m3u8
-#EXTINF:-1 group-title="DEPORTES", GOL
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8187.m3u8
