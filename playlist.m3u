@@ -1002,15 +1002,13 @@ http:\\fortv.cc:8080\live\shidarn@yahoo.com\zPNLXyt8sg\10454.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES (VPN)
 https://v4.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=1x99VmSGo2aZR8h1xRFUvA&expires=1777275348&user_id=WGRtOU1hcHVnbExGaHFGWW9pQkl1Z2ZPUDdHMTVCSFh5blhOaEkzYw==
 #EXTINF:-1 group-title="DEPORTES", FOX DEPORTES
-
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 USA
-http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/757.m3u8
+http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/595878.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 USA (VPN)
+https://v15.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=0TdRAmSEN98N8jbgmDkVww&expires=1778622456&user_id=ODQuMjAuMjcuMTY3
 #EXTINF:-1 group-title="DEPORTES", GOLF CHANNEL
-http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", MOVISTAR GOLF
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161954.m3u8
+http://200.125.170.122:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", MLB NETWORK
-http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/2342.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", MOTORTREND
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", NFL NETWORK (VPN)
