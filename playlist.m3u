@@ -920,29 +920,27 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 #EXTINF:-1 group-title="DEPORTES", ECDF
 http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/2363.m3u8
 #EXTINF:-1 group-title="DEPORTES", MOVISTAR DEPORTES PERÚ 
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8461.m3u8
-#EXTINF:-1 group-title="DEPORTES", MOVISTAR DEPORTES ESPAÑA
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161878.m3u8
+http://200.62.239.162:8000/play/a097/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", DSPORTS
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/88483.m3u8
+http://200.62.239.162:8000/play/a077/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", DSPORTS +
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9557.m3u8
+http://38.224.175.2:8000/play/a0l4/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", DSPORTS 2
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9564.m3u8
+http://199.188.103.176:8000/play/a045/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 1
-https://ve.streameasthd.net/espn/index.m3u8?token=59b485f130bb37c53e1d2b74325419a1e869cab7-94-1777287549-1777233549&ip=186.151.100.127
+http://190.14.249.223:17032/play/a03w/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/157559.m3u8
+http://190.14.249.223:17032/play/a03x/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/157560.m3u8
+http://190.14.249.223:17032/play/a03y/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 4
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/157561.m3u8
+http://190.14.249.223:17032/play/a03z/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 5
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9539.m3u8
+http://190.14.249.223:17032/play/a040/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 6
-http://181.114.57.246:4000/play/G5zcc3HYpdc5AjMs/index.m3u8
+http://190.14.249.223:17032/play/a041/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 7
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9543.m3u8
+http://190.14.249.223:17032/play/a042/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN PREMIUM
 http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/157562.m3u8
 #EXTINF:-1 group-title="DEPORTES", DAZN 1
