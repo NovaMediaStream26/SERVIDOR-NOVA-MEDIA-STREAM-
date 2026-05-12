@@ -942,17 +942,11 @@ http://190.14.249.223:17032/play/a041/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 7
 http://190.14.249.223:17032/play/a042/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN PREMIUM
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/157562.m3u8
-#EXTINF:-1 group-title="DEPORTES", DAZN 1
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161922.m3u8
-#EXTINF:-1 group-title="DEPORTES", DAZN 2
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161923.m3u8
-#EXTINF:-1 group-title="DEPORTES", DAZN 3
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/161925.m3u8
+http://181.13.252.102:8000/play/a078/index.m3u8?hls
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 ARGENTINA
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 ARGENTINA
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/179524.m3u8
+http://181.13.252.102:8000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 USA (VPN)
@@ -966,17 +960,17 @@ http://177.10.184.193:8000/play/a09k/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", CLARO SPORTS
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 MÉXICO
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9578.m3u8
+http://45.167.2.138:8000/play/a0ql/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 MÉXICO
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9584.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9591.m3u8
+http://45.167.2.138:8000/play/a0qm/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3 MÉXICO
+http://45.167.2.138:8000/play/a0qn/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS PREMIUM
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9593.m3u8
-#EXTINF:-1 group-title="DEPORTES", NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
+http://187.245.231.226:8000/play/a0uy/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", NBA TV (VPN)
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT SPORTS PREMIUM
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/157585.m3u8
+http://200.115.120.1:8000/play/ca040/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT SPORTS PREMIUM CHILE
 http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/112994.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT SPORTS CHILE
