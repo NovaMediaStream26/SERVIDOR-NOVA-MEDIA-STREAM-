@@ -1008,7 +1008,7 @@ https://v15.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=0TdRAmSEN98N8
 #EXTINF:-1 group-title="DEPORTES", GOLF CHANNEL
 http://200.125.170.122:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", MLB NETWORK
-
+http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/596508.m3u8
 #EXTINF:-1 group-title="DEPORTES", MOTORTREND
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", NFL NETWORK (VPN)
@@ -1022,19 +1022,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 #EXTINF:-1 group-title="DEPORTES", TUDN USA
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
 #EXTINF:-1 group-title="DEPORTES", WWE NETWORK
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47642.m3u8
+https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", YES NETWORK
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ALTITUDE SPORTS
 http://kstv.us:8080/live/4VUyfZBQzk/95104974615/48335.m3u8
-#EXTINF:-1 group-title="DEPORTES", SPORTSNET PITTSBURGH 
-http://aflaxtv.xyz:8080/live/mitrovic/19106b7cb4/59945.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOX SOCCER PLUS
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/162542.m3u8
 #EXTINF:-1 group-title="DEPORTES", UFC CHANNEL
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", SNY
-http://212.102.60.231/SNY/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", AYM SPORTS
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 #EXTINF:-1 group-title="DEPORTES", BALLY SPORTS DETROID
