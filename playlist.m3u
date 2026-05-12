@@ -972,33 +972,33 @@ https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT SPORTS PREMIUM
 http://200.115.120.1:8000/play/ca040/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT SPORTS PREMIUM CHILE
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/112994.m3u8
+http://170.244.209.30:8000/play/a0s9/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT SPORTS CHILE
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9929.m3u8
+http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/417210.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN
-http://45.5.119.43:4000/play/a05q/index.m3u8
+http://201.151.118.136:8000/play/a00g/index.m3u8?hls
 #EXTINF:-1 group-title="DEPORTES", TYC SPORTS 
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", WIN SPORTS
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8505.m3u8
+http://190.14.249.223:17032/play/a044/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", WIN SPORTS +
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8510.m3u8
+http://177.93.52.213:8196/play/a01f/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN COLOMBIA
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9516.m3u8
+http://190.14.249.223:17032/play/a03w/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT USA (VPN)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN USA
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 2 USA
-http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/38227.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN NEWS USA
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2312.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 USA (VPN)
+https://v1.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8?token=5WtPeKtTSt8WS9v4h0rExg&expires=1778563807&user_id=MzguMjIuMTcuMTk3
+#EXTINF:-1 group-title="DEPORTES", ESPN NEWS USA (VPN)
+https://v1.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8?token=GH_BrbjqxlM9Q3jSCIduCw&expires=1778564213&user_id=WUNJSVlZeWRVWkZ3MHcycGxnZVV2R0Iwc2FUanQyb
 #EXTINF:-1 group-title="DEPORTES", ESPN U USA
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", BIG TEN NETWORK 
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", CBS SPORTS NETWORK
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15944.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES (VPN)
 https://v4.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=1x99VmSGo2aZR8h1xRFUvA&expires=1777275348&user_id=WGRtOU1hcHVnbExGaHFGWW9pQkl1Z2ZPUDdHMTVCSFh5blhOaEkzYw==
 #EXTINF:-1 group-title="DEPORTES", FOX DEPORTES
