@@ -1068,7 +1068,7 @@ http://181.114.57.246:4000/play/zxCvBnM159QsGhk5/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TELEDEPORTE
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
-# --- SECCIÓN: DEPORTES ---
+# --- SECCIÓN: VIP PREMIUM ---
 
 #EXTINF:-1 group-title="VIP PREMIUM",A&E Crime 360
 https://live-manifest.production-public.tubi.io/live/d65f6697-9fd2-477f-a56d-26cea1b939b7/playlist.m3u8
