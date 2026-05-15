@@ -665,7 +665,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TLC
 http://209.126.106.30:8081/live/256c0d0ff9384c5684d4cccc54580379/262f7af457704e89896f9e17d6519e36/50.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TELEFE
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
+http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 #EXTINF:-1 group-title="INTERNACIONALES", UNIVISION
