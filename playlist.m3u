@@ -229,6 +229,21 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-viz
 #EXTINF:-1 group-title="SEASON PASS", NFL GAME PASS 8
 https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 
+# --- SECCIÓN: EVENTOS---
+
+#EXTINF:-1 tvg-id="Sevilla_RM_1" tvg-name="Sevilla vs Real Madrid 11AM" group-title="EVENTOS",Sevilla vs Real Madrid (Opción 1)
+http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/591974.m3u8
+#EXTINF:-1 tvg-id="Sevilla_RM_2" tvg-name="Sevilla vs Real Madrid OPCION 2 (VPN)" group-title="EVENTOS",Sevilla vs Real Madrid (Opción 2 - VPN)
+https://v16.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=xKYsMXRlPIzdOsGHLzcXVw&expires=1779050052&user_id=NHVyMEhPY2NUSVVXbWxUUlM0UUhQeGpIOXE4clZTa1lWWnpIcWRrSg==
+#EXTINF:-1 tvg-id="Sevilla_RM_3" tvg-name="Sevilla vs Real Madrid OPCION 3" group-title="EVENTOS",Sevilla vs Real Madrid (Opción 3)
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="Barca_Betis_1" tvg-name="Barcelona vs Real Betis 13:15 PM" group-title="EVENTOS",Barcelona vs Real Betis (Opción 1)
+http://38.224.175.2:8000/play/a0l4/index.m3u8
+#EXTINF:-1 tvg-id="Barca_Betis_2" tvg-name="Barcelona vs Real Betis OPCION 2 (VPN)" group-title="EVENTOS",Barcelona vs Real Betis (Opción 2 - VPN)
+https://v16.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=xKYsMXRlPIzdOsGHLzcXVw&expires=1779050052&user_id=NHVyMEhPY2NUSVVXbWxUUlM0UUhQeGpIOXE4clZTa1lWWnpIcWRrSg==
+#EXTINF:-1 tvg-id="Barca_Betis_3" tvg-name="Barcelona vs Real Betis OPCION 3" group-title="EVENTOS",Barcelona vs Real Betis (Opción 3)
+http://190.92.10.66:4000/play/a001/index.m3u8
+
 # --- SECCIÓN: MÉXICO ---
 
 #EXTINF:-1 group-title="MÉXICO", 8NTV
