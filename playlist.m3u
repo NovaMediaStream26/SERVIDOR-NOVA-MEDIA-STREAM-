@@ -771,7 +771,7 @@ http://177.10.184.193:8000/play/a09n/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY TURBO
 http://209.126.106.30:8081/live/ec28fafc47544120aa0a1d3f050ba67f/d4755e72041443f0a9ea8d9186502130/48.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY WORLD
-http://181.114.57.246:4000/play/Nf4QeAarDKFtuBFz/index.m3u8
+http://200.125.170.122:8000/play/a063/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", EL GOURMET
 http://200.115.98.26:7000/play/a036/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HISTORY 2
@@ -781,7 +781,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m
 #EXTINF:-1 group-title="TV PREMIUM", NATIONAL GEOGRAPHIC
 http://200.115.98.26:7000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", A&E
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8
+http://200.125.170.122:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AMC
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ANTENA 3 SERIES
