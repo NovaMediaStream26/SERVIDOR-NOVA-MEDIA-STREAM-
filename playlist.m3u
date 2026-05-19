@@ -735,8 +735,8 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist_4000.m3u8?
 #EXTINF:-1 group-title="INTERNACIONALES", MEGA CHILE
 http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9918.m3u8
-#EXTINF:-1 group-title="INTERNACIONALES", TVN CHILE
-http://217.26.190.76:8888/play/a0m6/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", TVN CHILE (VPN)
+https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TV NOSARA
