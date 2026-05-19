@@ -947,11 +947,11 @@ http://190.14.249.223:17032/play/a042/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN PREMIUM
 http://181.13.252.102:8000/play/a078/index.m3u8?hls
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 ARGENTINA
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
+http://181.209.96.155:10000/play/a15b/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 ARGENTINA
 http://181.13.252.102:8000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
+http://181.209.96.155:10000/play/a12r/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 USA (VPN)
 https://v4.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=v6bs6hsuJoASJoI3-PQ0Kg&expires=1777272079&user_id=WGRtOU1hcHVnbExGaHFGWW9pQkl1Z2ZPUDdHMTVCSFh5blhOaEkzYw==
 #EXTINF:-1 group-title="DEPORTES", FIFA +
