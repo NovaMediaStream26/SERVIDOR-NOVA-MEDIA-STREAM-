@@ -231,18 +231,8 @@ https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 
 # --- SECCIÓN: AGENDA ---
 
-#EXTINF:-1 group-title="AGENDA",Sevilla vs Real Madrid (Opción 1)
-http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/591974.m3u8
-#EXTINF:-1 group-title="AGENDA",Sevilla vs Real Madrid (Opción 2 - VPN)
-https://v16.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=xKYsMXRlPIzdOsGHLzcXVw&expires=1779050052&user_id=NHVyMEhPY2NUSVVXbWxUUlM0UUhQeGpIOXE4clZTa1lWWnpIcWRrSg==
-#EXTINF:-1 group-title="AGENDA",Sevilla vs Real Madrid (Opción 3)
-http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 group-title="AGENDA",Barcelona vs Real Betis (Opción 1)
-http://38.224.175.2:8000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="AGENDA",Barcelona vs Real Betis (Opción 2 - VPN)
-https://v16.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=xKYsMXRlPIzdOsGHLzcXVw&expires=1779050052&user_id=NHVyMEhPY2NUSVVXbWxUUlM0UUhQeGpIOXE4clZTa1lWWnpIcWRrSg==
-#EXTINF:-1 group-title="AGENDA",Barcelona vs Real Betis (Opción 3)
-http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MARATHON VS MOTAGUA 8PM
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
 
 # --- SECCIÓN: MÉXICO ---
 
