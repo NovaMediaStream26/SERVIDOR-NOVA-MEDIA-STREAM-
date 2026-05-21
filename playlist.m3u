@@ -232,7 +232,7 @@ https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 # --- SECCIÓN: AGENDA ---
 
 #EXTINF:-1 group-title="AGENDA", MARATHON VS MOTAGUA 8PM
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+http://200.115.98.26:9000/play/a02v/index.m3u8?hls
 
 # --- SECCIÓN: MÉXICO ---
 
