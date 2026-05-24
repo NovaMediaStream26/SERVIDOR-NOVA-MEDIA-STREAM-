@@ -231,8 +231,8 @@ https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 
 # --- SECCIÓN: AGENDA ---
 
-#EXTINF:-1 group-title="AGENDA", REAL MADRID VS ATHLETIC CLUB 1PM
-
+#EXTINF:-1 group-title="AGENDA", MOTAGUA VS MARATHON 5PM
+http://45.68.35.218:9000/play/a03d/index.m3u8?hls
 
 # --- SECCIÓN: MÉXICO ---
 
