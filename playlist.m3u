@@ -232,13 +232,7 @@ https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 # --- SECCIÓN: AGENDA ---
 
 #EXTINF:-1 group-title="AGENDA", REAL MADRID VS ATHLETIC CLUB 1PM
-http://38.224.175.2:8000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="AGENDA", VALENCIA VS BARCELONA 1PM
-http://190.14.249.223:17032/play/a03y/index.m3u8
-#EXTINF:-1 group-title="AGENDA", VALENCIA VS BARCELONA OPCIÓN 2
-http://181.13.252.102:8000/play/a05a/index.m3u8?hls
-#EXTINF:-1 group-title="AGENDA", VALENCIA VS BARCELONA OPCIÓN 3
-http://190.92.10.66:4000/play/a001/index.m3u8
+
 
 # --- SECCIÓN: MÉXICO ---
 
