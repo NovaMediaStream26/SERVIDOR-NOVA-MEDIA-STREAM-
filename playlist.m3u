@@ -952,11 +952,11 @@ http://181.78.109.48:9998/play/a05x/index.m3u8
 http://177.10.184.193:8000/play/a09k/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", CLARO SPORTS
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 MÉXICO
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 MEXICO
 http://45.167.2.138:8000/play/a0ql/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 MÉXICO
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 MEXICO
 http://45.167.2.138:8000/play/a0qm/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3 MÉXICO
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3 MEXICO
 http://45.167.2.138:8000/play/a0qn/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS PREMIUM
 http://187.245.231.226:8000/play/a0uy/index.m3u8
@@ -1034,7 +1034,7 @@ https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/595914.m3u8
 #EXTINF:-1 group-title="DEPORTES", ITV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 group-title="DEPORTES", TVC DEPORTES MÉXICO
+#EXTINF:-1 group-title="DEPORTES", TVC DEPORTES MEXICO
 http://187.102.195.131:8000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", PREMIERE 1
 http://cdn.arrascacrf.site:80/872730437447/587407912989/1479725.m3u8
@@ -1050,13 +1050,13 @@ http://cdn.arrascacrf.site:80/872730437447/587407912989/93541.m3u8
 http://cdn.arrascacrf.site:80/872730437447/587407912989/93542.m3u8
 #EXTINF:-1 group-title="DEPORTES", PREMIERE 7
 http://cdn.arrascacrf.site:80/872730437447/587407912989/93544.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 1 MÉXICO
+#EXTINF:-1 group-title="DEPORTES", ESPN 1 MEXICO
 http://45.5.119.43:4000/play/a052/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 2 MÉXICO
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 MEXICO
 http://45.5.119.43:4000/play/a053/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 3 MÉXICO
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 MEXICO
 http://45.5.119.43:4000/play/a054/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 4 MÉXICO
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 MEXICO
 http://181.114.57.246:4000/play/zxCvBnM159QsGhk5/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TELEDEPORTE
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
