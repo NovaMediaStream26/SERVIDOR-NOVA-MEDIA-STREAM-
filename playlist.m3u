@@ -234,7 +234,13 @@ https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="AGENDA", TENIS: ATP ROLAND GARROS 3AM
 http://190.14.249.223:17032/play/a03w/index.m3u8
 #EXTINF:-1 group-title="AGENDA", TENIS: ATP ROLAND GARROS OPCIÓN 2
+http://181.13.252.102:8000/play/a059/index.m3u8?hls
+#EXTINF:-1 group-title="AGENDA", TENIS: ATP ROLAND GARROS 3AM
+http://190.14.249.223:17032/play/a03y/index.m3u8
+#EXTINF:-1 group-title="AGENDA", TENIS: SORTEO COPA LIBERTADORES Y SUDAMERICANA 9AM
 http://190.14.249.223:17032/play/a03w/index.m3u8
+#EXTINF:-1 group-title="AGENDA", TENIS: ATP ROLAND GARROS 3AM
+http://200.115.120.1:8000/play/ca040/index.m3u8
 
 # --- SECCIÓN: MÉXICO ---
 
