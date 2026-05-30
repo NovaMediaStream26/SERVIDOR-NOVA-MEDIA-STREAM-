@@ -652,7 +652,7 @@ https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 6 EL SALVADOR
 https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ATV
-https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
+https://es3-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Atv-UDP_abr/bitel/Atv-udp_360p/chunks.m3u8?timestamp=1780124943&wmkid=0&uid=11915237&token=522bcd452126b589048caa71d513ef02
 #EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV PERÚ
 http://38.252.215.33:8000/play/a08j/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CARACOL TV 
