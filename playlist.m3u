@@ -660,7 +660,7 @@ http://200.125.170.122:8000/play/a0er/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", DW CHANNEL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", E! CHANNEL
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/9646.m3u8
+http://200.125.170.122:8000/play/a02x/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ECUAVISA
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", LATINA TV
