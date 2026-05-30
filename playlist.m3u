@@ -905,41 +905,41 @@ http://45.167.2.138:8000/play/a0qw/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", LIGA 1 MAX
 http://8.243.126.131:8000/play/a063/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", SKY SPORTS LALIGA
-http://190.92.10.66:4000/play/a001/index.m3u8
+http://181.119.108.27:7292/play/a0ae/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", REAL MADRID TV
-https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", BEIN SPORTS XTRA Ñ
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlistR1080p.m3u8
 #EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", AZTECA DEPORTES EN VIVO
-https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
+http://45.173.74.2:2010/play/a07g/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", DAZN COMBAT
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", ECDF
 http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/2363.m3u8
 #EXTINF:-1 group-title="DEPORTES", DSPORTS
-http://200.62.239.162:8000/play/a077/index.m3u8
+http://38.224.175.2:8000/play/a0l4/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", DSPORTS +
 http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/9464.m3u8
 #EXTINF:-1 group-title="DEPORTES", DSPORTS 2
 http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/9463.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 1
-http://190.14.249.223:17032/play/a03w/index.m3u8
+http:\\190.217.66.92:8000\play\a0di\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2
-http://190.14.249.223:17032/play/a03x/index.m3u8
+http:\\190.217.66.92:8000\play\a0gd\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3
-http://190.14.249.223:17032/play/a03y/index.m3u8
+http:\\190.217.66.92:8000\play\a0q7\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 4
-http://190.14.249.223:17032/play/a03z/index.m3u8
+http:\\190.217.66.92:8000\play\a0po\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 5
-http://190.14.249.223:17032/play/a040/index.m3u8
+http:\\190.217.66.92:8000\play\a0q4\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 6
-http://190.14.249.223:17032/play/a041/index.m3u8
+http:\\190.217.66.92:8000\play\a0e2\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 7
-http://190.14.249.223:17032/play/a042/index.m3u8
+http:\\190.217.66.92:8000\play\a0e1\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN PREMIUM
-http://181.13.252.102:8000/play/a078/index.m3u8?hls
+http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 ARGENTINA
 http://181.209.96.155:10000/play/a15b/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 ARGENTINA
@@ -955,7 +955,7 @@ http://181.78.109.48:9998/play/a05x/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TIGO SPORTS COSTA RICA
 http://177.10.184.193:8000/play/a09k/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", CLARO SPORTS
-https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
+http://200.125.170.122:8000/play/a0dk/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 MEXICO
 http://45.167.2.138:8000/play/a0ql/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 MEXICO
@@ -977,11 +977,11 @@ http://201.151.118.136:8000/play/a00g/index.m3u8?hls
 #EXTINF:-1 group-title="DEPORTES", TYC SPORTS 
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", WIN SPORTS
-http://190.14.249.223:17032/play/a044/index.m3u8
+http:\\190.217.66.92:8000\play\a0fh\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", WIN SPORTS +
 http://177.93.52.213:8196/play/a01f/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN COLOMBIA
-http://190.14.249.223:17032/play/a03w/index.m3u8
+http:\\190.217.66.92:8000\play\a0di\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT USA (VPN)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN USA
@@ -999,7 +999,7 @@ http:\\fortv.cc:8080\live\shidarn@yahoo.com\zPNLXyt8sg\10454.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES (VPN)
 https://v4.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=1x99VmSGo2aZR8h1xRFUvA&expires=1777275348&user_id=WGRtOU1hcHVnbExGaHFGWW9pQkl1Z2ZPUDdHMTVCSFh5blhOaEkzYw==
 #EXTINF:-1 group-title="DEPORTES", FOX DEPORTES
-http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/595878.m3u8
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 USA (VPN)
 https://v15.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=0TdRAmSEN98N8jbgmDkVww&expires=1778622456&user_id=ODQuMjAuMjcuMTY3
 #EXTINF:-1 group-title="DEPORTES", GOLF CHANNEL
@@ -1016,30 +1016,24 @@ https://v4.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=daNjLSPwuNrHw-
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="DEPORTES", TENNIS CHANNEL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", TUDN USA
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
+#EXTINF:-1 group-title="DEPORTES", TUDN USA (VPN)
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1 group-title="DEPORTES", WWE NETWORK
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", YES NETWORK
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ALTITUDE SPORTS
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/48335.m3u8
 #EXTINF:-1 group-title="DEPORTES", UFC CHANNEL
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", AYM SPORTS
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
-#EXTINF:-1 group-title="DEPORTES", BALLY SPORTS DETROID
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/31589.m3u8
 #EXTINF:-1 group-title="DEPORTES", NBC BAY AREA (VPN)
 https://e1.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8?token=UW6JBUv-R1qIKONNg24zyA&expires=1777277185&user_id=MTg2LjE1MS4xMDAuMTI3
 #EXTINF:-1 group-title="DEPORTES", WORLD FISHING NETWORK
 https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=mDHh59pDPYW
-#EXTINF:-1 group-title="DEPORTES", SPORTSMAN CHANNEL
-http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/595914.m3u8
 #EXTINF:-1 group-title="DEPORTES", ITV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="DEPORTES", TVC DEPORTES MEXICO
-http://187.102.195.131:8000/play/a00s/index.m3u8
+http:\\209.87.175.160:5001\play\a0kl\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", PREMIERE 1
 http://cdn.arrascacrf.site:80/872730437447/587407912989/1479725.m3u8
 #EXTINF:-1 group-title="DEPORTES", PREMIERE 2
@@ -1061,7 +1055,7 @@ http://45.5.119.43:4000/play/a053/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 MEXICO
 http://45.5.119.43:4000/play/a054/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 4 MEXICO
-http://181.114.57.246:4000/play/zxCvBnM159QsGhk5/index.m3u8
+http://200.125.170.122:8000/play/a0en/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TELEDEPORTE
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
