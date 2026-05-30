@@ -773,17 +773,17 @@ http://200.125.170.122:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HISTORY 2
 http://45.173.74.2:2010/play/a09m/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HISTORY
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
+http://200.125.170.122:8000/play/a0dc/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", NATIONAL GEOGRAPHIC
-http://200.115.98.26:7000/play/a00o/index.m3u8
+http://200.125.170.122:8000/play/a05z/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", A&E
 http://200.125.170.122:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AMC
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
+http://200.125.170.122:8000/play/a02k/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ANTENA 3 SERIES
-http://170.244.209.30:8000/play/a00c/index.m3u8
+http://200.125.170.122:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINECANAL
-http://170.244.209.30:8000/play/a057/index.m3u8
+http://200.125.170.122:8000/play/a0a3/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINEMAX
 http://45.5.119.43:4000/play/a0il/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", COMEDY CENTRAL
@@ -793,11 +793,11 @@ http://45.5.119.43:4000/play/a0gw/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", GOLDEN
 http://45.5.119.43:4000/play/a0jv/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", GOLDEN EDGE
-http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/9658.m3u8
+http://45.167.2.138:8000/play/a0sb/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", GOLDEN PREMIER
-http://tv.diablotv.net:8080/live/antoniolobos456/kqDD6CQJMY/9664.m3u8
+http://45.186.106.207:8000/play/a06v/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SONY CHANNEL
-http://181.114.57.246:4000/play/wQWF578wnjn2Lnrz/index.m3u8
+http://200.125.170.122:8000/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SPACE
 http://45.5.119.43:4000/play/a0iz/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL
@@ -809,7 +809,7 @@ http://200.125.170.122:8000/play/a067/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIER
 http://200.125.170.122:8000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL TV
-http://181.114.57.246:4000/play/Um9B9zJk9LEqj7aA/index.m3u8
+http://200.125.170.122:8000/play/a05h/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO
 http://45.5.119.43:4000/play/a0l2/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO 2
@@ -845,7 +845,7 @@ http://181.13.252.102:8000/play/a02j/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", LOVE NATURE
 http://181.224.200.5:2277/play/a036/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TCM
-http://190.14.249.223:17032/play/a03v/index.m3u8
+http://200.125.170.122:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HOLA TV!
 http://181.119.108.27:7292/play/a0hx/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", LIFETIME
@@ -853,19 +853,19 @@ http://200.125.170.122:8000/play/a0d0/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", MTV
 http://181.13.252.102:8000/play/a02m/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CNN EN ESPAÑOL
-http://190.14.249.223:17032/play/a04z/index.m3u8
+http://200.125.170.122:8000/play/a0d7/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DHE
-http://200.115.98.26:7000/play/a04z/index.m3u8
+http://200.125.170.122:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", BANDAMAX
 http://45.171.64.30:2000/play/a08h/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", BITME
 http://200.115.120.1:8000/play/ca012/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINE LATINO
-http://200.115.98.26:7000/play/a02h/index.m3u8
+http://200.125.170.122:8000/play/a05k/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CITY TV
 http://190.61.34.164:8000/play/a03u/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", FILM & ARTS
-http://190.14.249.223:17032/play/a06e/index.m3u8
+http://200.125.170.122:8000/play/a02y/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SHOWTIME
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SONY MOVIES
