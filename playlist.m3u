@@ -656,7 +656,7 @@ https://es3-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Atv-UDP_abr/bitel/Atv-udp
 #EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV PERÚ
 http://38.252.215.33:8000/play/a08j/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CARACOL TV 
-http://190.60.52.28:5001/play/a0g7/index.m3u8
+http://190.14.249.223:17032/play/a067/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", DW CHANNEL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", E! CHANNEL
