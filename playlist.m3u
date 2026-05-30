@@ -298,8 +298,6 @@ https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", EXPRESA TV
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
-#EXTINF:-1 group-title="MÉXICO", FORO TV
-https://channel02dai-notusa.akamaized.net/linear/hls/pa/event/02DzjYAJRCeAE9uB8o3ivg/stream/a5d772a7-6d76-4acb-be7c-aa1f168b049f:ATL/variant/bc4df75840d4b764e29b01fcb3f61a35/bandwidth/1470847.m3u8?
 #EXTINF:-1 group-title="MÉXICO", ICRTV COLIMA
 https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", IERTBCS CANAL 8.2 LA PAZ
