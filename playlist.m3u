@@ -666,7 +666,7 @@ https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/e
 #EXTINF:-1 group-title="INTERNACIONALES", LATINA TV
 https://es1-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Latina-UDP_abr/bitel/Latina-udp_480p/chunks.m3u8?timestamp=1780127859&wmkid=0&uid=11915237&token=936fccaa797e2cbb4a21df820035e269
 #EXTINF:-1 group-title="INTERNACIONALES", PASIONES
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8335.m3u8
+http://200.115.98.26:7000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", RCN
 http://130.51.23.173:8030/hls/canal3.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", RT EN ESPAÑOL 
