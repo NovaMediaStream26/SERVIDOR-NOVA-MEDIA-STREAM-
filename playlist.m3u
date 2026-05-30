@@ -890,7 +890,7 @@ http://200.125.170.122:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", DISNEY CHANNEL
 http://200.125.170.122:8000/play/a057/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", DISNEY JUNIOR
-http://190.14.249.223:17032/play/a04a/index.m3u8
+http://200.125.170.122:8000/play/a0cq/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", NICKELODEON
 http://179.60.51.134:8888/NICK/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", TOONCAST
