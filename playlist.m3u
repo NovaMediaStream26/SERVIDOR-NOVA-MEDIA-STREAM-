@@ -886,7 +886,7 @@ http://200.125.170.122:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", CARTOONITO
 http://200.125.170.122:8000/play/a0cp/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", DISCOVERY KIDS
-http://190.14.249.223:17032/play/a045/index.m3u8
+http://200.125.170.122:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", DISNEY CHANNEL
 http://190.14.249.223:17032/play/a049/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", DISNEY JUNIOR
