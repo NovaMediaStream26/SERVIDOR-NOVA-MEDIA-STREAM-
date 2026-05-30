@@ -238,7 +238,7 @@ http:\\190.217.66.92:8000\play\a0q7\index.m3u8
 #EXTINF:-1 group-title="AGENDA", MOTO GP: SPRINT- GP ITALIA 06:30 AM
 http:\\190.217.66.92:8000\play\a0po\index.m3u8
 #EXTINF:-1 group-title="AGENDA", PSG VS ARSENAL 10:00 AM
-http:\\190.217.66.92:8000\play\a0di\index.m3u8
+http://179.60.51.134:8888/ESPN/index.m3u8
 #EXTINF:-1 group-title="AGENDA", PSG VS ARSENAL OPCION 2
 http://181.209.96.155:10000/play/a15b/index.m3u8
 #EXTINF:-1 group-title="AGENDA", ADT VS CUSCO 10:00 AM
