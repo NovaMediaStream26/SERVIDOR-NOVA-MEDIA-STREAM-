@@ -634,7 +634,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", LA 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ANTENA 3
-http://181.114.57.246:4000/play/akjWPSp33R6D9dv3/index.m3u8
+http://177.10.184.193:8000/play/a06a/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", EL TRECE
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 4 REPRETEL
