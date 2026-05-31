@@ -233,56 +233,44 @@ https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="AGENDA", TENIS: ATP ROLAND GARROS 3AM
 http:\\190.217.66.92:8000\play\a0gd\index.m3u8
-#EXTINF:-1 group-title="AGENDA", TENIS: ATP ROLAND GARROS 3AM
+#EXTINF:-1 group-title="AGENDA", SUIZA VS JORDANIA 7AM
+http:\\190.217.66.92:8000\play\a0di\index.m3u8
+#EXTINF:-1 group-title="AGENDA", TENIS: ROLAND GARROS 07:30 AM
 http:\\190.217.66.92:8000\play\a0q7\index.m3u8
-#EXTINF:-1 group-title="AGENDA", MOTO GP: SPRINT- GP ITALIA 06:30 AM
-http:\\190.217.66.92:8000\play\a0po\index.m3u8
-#EXTINF:-1 group-title="AGENDA", PSG VS ARSENAL 10:00 AM
-http://179.60.51.134:8888/ESPN/index.m3u8
-#EXTINF:-1 group-title="AGENDA", PSG VS ARSENAL OPCION 2
-http://181.209.96.155:10000/play/a15b/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ADT VS CUSCO 10:00 AM
-http://8.243.126.131:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="AGENDA", TENIS: ALIASSIME VS NAKASHIMA 12:00 PM
-http:\\190.217.66.92:8000\play\a0gd\index.m3u8
-#EXTINF:-1 group-title="AGENDA", GIMNASIA JUJUY VS BELGRANO 12:30 PM
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", ATLETICO PARANAENSE VS MIRASSOL 13:00 PM
-http://cdn.arrascacrf.site:80/872730437447/587407912989/93540.m3u8
-#EXTINF:-1 group-title="AGENDA", FLAMENGO VS CURITIBA 13:00 PM
+#EXTINF:-1 group-title="AGENDA", RB BRAGANTINO VS INTERNACIONAL 8AM
 http://cdn.arrascacrf.site:80/872730437447/587407912989/1479725.m3u8
-#EXTINF:-1 group-title="AGENDA", DEPORTIVO GARCILASO VS JUAN PABLO II COLLEGE 14:00 PM
+#EXTINF:-1 group-title="AGENDA", MELGAR VS ALIANZA ATLETICO 10AM
 http://8.243.126.131:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="AGENDA", COLOMBIA U-17 VS FLAMENGO U-17 14:00 PM
+#EXTINF:-1 group-title="AGENDA", TENIS: RUUD VS FONSECA 12PM
 http:\\190.217.66.92:8000\play\a0gd\index.m3u8
-#EXTINF:-1 group-title="AGENDA", BAHIA VS BOTAFOGO 14:30 PM
+#EXTINF:-1 group-title="AGENDA", CAJAMARCA FC VS ALIANZA LIMA 12:15 PM
+http://8.243.126.131:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESTUDIANTES VS ROSARIO CENTRAL 12:30 PM
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", ALEMANIA VS FINLANDIA 12:45 PM
+http:\\190.217.66.92:8000\play\a0di\index.m3u8
+#EXTINF:-1 group-title="AGENDA", PALMEIRAS VS CHAPECOENSE 1PM
+http://cdn.arrascacrf.site:80/872730437447/587407912989/1479725.m3u8
+#EXTINF:-1 group-title="AGENDA", VASCO DA GAMA VS ATLETICO MINEIRO 1PM
 http://cdn.arrascacrf.site:80/872730437447/587407912989/93538.m3u8
-#EXTINF:-1 group-title="AGENDA", GREMIO VS CORINTHIANS 14:00 PM
-http://cdn.arrascacrf.site:80/872730437447/587407912989/93539.m3u8
-#EXTINF:-1 group-title="AGENDA", INSTITUTO VS LANUS 15:00 PM
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINOS JUNIORS U-17 VS ATLETICO NACIONAL U-17 15:30 PM
-http:\\190.217.66.92:8000\play\a0gd\index.m3u8
-#EXTINF:-1 group-title="AGENDA", SPORT BOYS VS COMERCIANTES UNIDOS
-http://8.243.126.131:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="AGENDA", SANTOS VS VITORIA 17:00 PM
-http://cdn.arrascacrf.site:80/872730437447/587407912989/1479725.m3u8
-#EXTINF:-1 group-title="AGENDA", TOLUCA VS TIGRES 18:00 PM (VPN)
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:-1 group-title="AGENDA", TOLUCA VS TIGRES 18:00 PM OPCION 2
+#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS SENEGAL 13:30 PM
 http://45.5.119.43:4000/play/a052/index.m3u8
-#EXTINF:-1 group-title="AGENDA", UNIVERSITARIO VS SPORT HUANCAYO 19:00 PM
-http://8.243.126.131:8000/pay/a063/index.m3u8
-#EXTINF:-1 group-title="AGENDA", MEXICO VS AUSTRALIA 20:00 PM
-http://201.151.118.136:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="AGENDA", MEXICO VS AUSTRALIA OPCION 2
-http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="AGENDA", MEXICO VS AUSTRALIA OPCION 3
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 group-title="AGENDA", MEXICO VS AUSTRALIA OPCION 4 (VPN)
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="AGENDA", BOX: FRANCISCO RODRIGUEZ VS ANGELINO CORDOBA 20:00 PM
-http:\\190.217.66.92:8000\play\a0gd\index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS SENEGAL OPCION 2
+http://200.125.170.122:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS SENEGAL OPCION 3
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS SENEGAL OPCION 4 (VPN)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="AGENDA", LOS CHANKAS VS UTC CAJAMARCA 14:15 PM
+http://8.243.126.131:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="AGENDA", BRASIL VS PANAMA
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="AGENDA", CIENCIANO VS SPORTING CRISTAL 4PM
+http://8.243.126.131:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="AGENDA", REMO VS SAO PAULO 17:30 PM
+http://cdn.arrascacrf.site:80/872730437447/587407912989/1479725.m3u8
+#EXTINF:-1 group-title="AGENDA", CRUZEIRO VS FLUMINENSE 17:30 PM
+http://cdn.arrascacrf.site:80/872730437447/587407912989/93538.m3u8
 
 # --- SECCIÓN: MÉXICO ---
 
