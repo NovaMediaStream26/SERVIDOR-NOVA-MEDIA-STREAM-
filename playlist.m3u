@@ -932,6 +932,8 @@ http://45.167.2.138:8000/play/a0qw/index.m3u8
 
 # --- SECCIÓN: DEPORTES ---
 
+#EXTINF:-1 group-title="DEPORTES", ULTRAS TV
+https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", LIGA 1 MAX
 http://8.243.126.131:8000/play/a063/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", SKY SPORTS LALIGA
