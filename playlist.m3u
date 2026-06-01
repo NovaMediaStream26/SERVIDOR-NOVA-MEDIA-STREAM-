@@ -935,7 +935,7 @@ http:\\190.14.249.223:17032\play\a03w\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2
 http:\\190.14.249.223:17032\play\a03x\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3
-http:\\190.217.66.92:8000\play\a0q7\index.m3u8
+http:\\190.14.249.223:17032\play\a03y\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 4
 http:\\190.217.66.92:8000\play\a0po\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 5
