@@ -245,32 +245,6 @@ http://200.125.170.122:8000/play/a0er/index.m3u8
 http:\\38.224.22.252:8000\play\a01n\index.m3u8
 #EXTINF:-1 group-title="AGENDA", CANADA VS UZEKISTAN 7PM (VPN)
 https://v4.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=qMTEdpMDKdzUgVsBMMXc8g&expires=1780353439&user_id=OUZoM1ZQdkhYdXNFRnNJcXVzRWFBSDc4NDRuMk5CYWVvUTkxb0JYeg==
-#EXTINF:-1 group-title="AGENDA", ESTUDIANTES VS ROSARIO CENTRAL 12:30 PM
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", ALEMANIA VS FINLANDIA 12:45 PM
-http:\\190.217.66.92:8000\play\a0di\index.m3u8
-#EXTINF:-1 group-title="AGENDA", PALMEIRAS VS CHAPECOENSE 1PM
-http://cdn.arrascacrf.site:80/872730437447/587407912989/1479725.m3u8
-#EXTINF:-1 group-title="AGENDA", VASCO DA GAMA VS ATLETICO MINEIRO 1PM
-http://cdn.arrascacrf.site:80/872730437447/587407912989/93538.m3u8
-#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS SENEGAL 13:30 PM
-http://45.5.119.43:4000/play/a052/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS SENEGAL OPCION 2
-http://200.125.170.122:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS SENEGAL OPCION 3
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS SENEGAL OPCION 4 (VPN)
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="AGENDA", LOS CHANKAS VS UTC CAJAMARCA 14:15 PM
-http://8.243.126.131:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="AGENDA", BRASIL VS PANAMA
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 group-title="AGENDA", CIENCIANO VS SPORTING CRISTAL 4PM
-http://8.243.126.131:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="AGENDA", REMO VS SAO PAULO 17:30 PM
-http://cdn.arrascacrf.site:80/872730437447/587407912989/1479725.m3u8
-#EXTINF:-1 group-title="AGENDA", CRUZEIRO VS FLUMINENSE 17:30 PM
-http://cdn.arrascacrf.site:80/872730437447/587407912989/93538.m3u8
 
 # --- SECCIÓN: MÉXICO ---
 
