@@ -234,7 +234,7 @@ https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="AGENDA", NORUEGA VS SUECIA 11AM
 http://45.5.119.43:4000/play/a052/index.m3u8
 #EXTINF:-1 group-title="AGENDA", TENIS: SABALENKA VS OSAKA 12PM
-http:\\190.217.66.92:8000\play\a0gd\index.m3u8
+http:\\190.14.249.223:17032\play\a03x\index.m3u8
 #EXTINF:-1 group-title="AGENDA", AUSTRIA VS TUNEZ 12:45 PM
 http:\\190.14.249.223:17032\play\a03w\index.m3u8
 #EXTINF:-1 group-title="AGENDA", COLOMIA VS COSTA RICA 5PM
@@ -933,7 +933,7 @@ http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/9463.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 1
 http:\\190.14.249.223:17032\play\a03w\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2
-http:\\190.217.66.92:8000\play\a0gd\index.m3u8
+http:\\190.14.249.223:17032\play\a03x\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3
 http:\\190.217.66.92:8000\play\a0q7\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 4
