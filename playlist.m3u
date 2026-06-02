@@ -231,20 +231,24 @@ https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 
 # --- SECCIÓN: AGENDA ---
 
-#EXTINF:-1 group-title="AGENDA", NORUEGA VS SUECIA 11AM
-http://45.5.119.43:4000/play/a052/index.m3u8
-#EXTINF:-1 group-title="AGENDA", TENIS: SABALENKA VS OSAKA 12PM
-http:\\190.14.249.223:17032\play\a03x\index.m3u8
-#EXTINF:-1 group-title="AGENDA", AUSTRIA VS TUNEZ 12:45 PM
+#EXTINF:-1 group-title="AGENDA", CROACIA VS BELGICA 10AM
 http:\\190.14.249.223:17032\play\a03w\index.m3u8
-#EXTINF:-1 group-title="AGENDA", COLOMIA VS COSTA RICA 5PM
-http://130.51.23.173:8030/hls/canal3.m3u8
-#EXTINF:-1 group-title="AGENDA", COLOMIA VS COSTA RICA OPCION 2
-http:\\190.14.249.223:17032\play\a067\index.m3u8
-#EXTINF:-1 group-title="AGENDA", COLOMBIA VS COSTA RICA OPCION 3
-http:\\38.224.22.252:8000\play\a01n\index.m3u8
-#EXTINF:-1 group-title="AGENDA", CANADA VS UZEKISTAN 7PM (VPN)
-https://v4.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=qMTEdpMDKdzUgVsBMMXc8g&expires=1780353439&user_id=OUZoM1ZQdkhYdXNFRnNJcXVzRWFBSDc4NDRuMk5CYWVvUTkxb0JYeg==
+#EXTINF:-1 group-title="AGENDA", TENIS: MENSIK VS FONSECA 12PM
+http:\\190.14.249.223:17032\play\a03x\index.m3u8
+#EXTINF:-1 group-title="AGENDA", TIGRE VS RIVER PLATE 12PM
+http://181.13.252.102:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="AGENDA", GALES VS GHANA 12:45 PM
+http:\\190.14.249.223:17032\play\a03w\index.m3u8
+#EXTINF:-1 group-title="AGENDA", INDEPENDIENTE MEDELLIN VS CUCUTA DEPORTIVO 5PM
+http://190.14.249.223:17032/play/a044/index.m3u8
+#EXTINF:-1 group-title="AGENDA", HAITI VS NUEVA ZELANDA 6PM
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="AGENDA", HAITI VS NUEVA ZELANDA OPCION 2
+http://181.13.252.102:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="AGENDA", BARRACAS CENTRAL VS HURACAN 18:10 PM
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", JUNIOR VS ATLETICO NACIONAL 18:30 PM
+http://177.93.52.213:8196/play/a01f/index.m3u8
 
 # --- SECCIÓN: MÉXICO ---
 
