@@ -231,20 +231,20 @@ https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 
 # --- SECCIÓN: AGENDA ---
 
-#EXTINF:-1 group-title="AGENDA", ROSARIO CENTRAL VS RACING CLUB 12PM
-http://181.13.252.102:8000/play/a05b/index.m3u8?hls
-#EXTINF:-1 group-title="AGENDA", TENIS: BERRETTINI VS ARNALDI 12PM
-http:\\190.14.249.223:17032\play\a03x\index.m3u8
-#EXTINF:-1 group-title="AGENDA", PAISES BAJOS VS ARGELIA 12:45 PM
+#EXTINF:-1 group-title="AGENDA", ANDORRA VS LIECHTENSTEIN 11AM
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", PAISES BAJOS VS ARGELIA OPCION 2
+#EXTINF:-1 group-title="AGENDA", ESPAÑA VS IRAQ 1PM
+https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", ESPAÑA VS IRAQ OPCIÓN 2
+http://45.5.119.43:4000/play/a052/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESPAÑA VS IRAQ OPCIÓN 3
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 group-title="AGENDA", FRANCIA VS COSTA DE MARFIL 13:10 PM
 http:\\190.14.249.223:17032\play\a03w\index.m3u8
-#EXTINF:-1 group-title="AGENDA", BOCA JUNIORS VS DEFENSA Y JUSTICIA 4PM
-http://200.115.120.1:8000/play/ca040/index.m3u8
-#EXTINF:-1 group-title="AGENDA", COREA DEL SUR VS EL SALVADOR 5PM
+#EXTINF:-1 group-title="AGENDA", REPÚBLICA CHECA VS GUATEMALA 5PM
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", COREA DEL SUR VS EL SALVADOR OPCION 2
-https://signal.teleon.live/segments/canal4sv?path=http%3A%2F%2F168.228.44.241%3A9999%2Fplay%2Fa043%2F22709611.m3u8&token=free
+#EXTINF:-1 group-title="AGENDA", REPÚBLICA CHECA VS GUATEMALA OPCION 2
+http://177.10.184.193:8000/play/a09k/index.m3u8
 #EXTINF:-1 group-title="AGENDA", PANAMA VS REPUBLICA DOMINICANA 18:45 PM
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
 
