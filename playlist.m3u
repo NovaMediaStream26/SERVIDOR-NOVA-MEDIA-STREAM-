@@ -241,12 +241,24 @@ http://45.5.119.43:4000/play/a052/index.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 group-title="AGENDA", FRANCIA VS COSTA DE MARFIL 13:10 PM
 http:\\190.14.249.223:17032\play\a03w\index.m3u8
-#EXTINF:-1 group-title="AGENDA", REPÚBLICA CHECA VS GUATEMALA 5PM
+#EXTINF:-1 group-title="AGENDA", REPÚBLICA CHECA VS GUATEMALA 6PM
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
 #EXTINF:-1 group-title="AGENDA", REPÚBLICA CHECA VS GUATEMALA OPCION 2
 http://177.10.184.193:8000/play/a09k/index.m3u8
-#EXTINF:-1 group-title="AGENDA", PANAMA VS REPUBLICA DOMINICANA 18:45 PM
+#EXTINF:-1 group-title="AGENDA", MEXICO VS SERBIA 8PM
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS SERBIA OPCION 2
+http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS SERBIA OPCION 3
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS SERBIA OPCION 4
+http://45.173.74.2:2010/play/a07g/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS SERBIA OPCION 5 (VPN)
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS SERBIA OPCION 6
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS SERBIA OPCION 7
+http://45.167.2.101:8000/play/a0la/index.m3u8
 
 # --- SECCIÓN: MÉXICO ---
 
