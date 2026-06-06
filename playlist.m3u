@@ -230,22 +230,50 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-viz
 https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 
 # --- SECCIÓN: AGENDA ---
-#EXTINF:-1 group-title="AGENDA", TENIS: ARNALDI VS COBOLLI 11AM
+#EXTINF:-1 group-title="AGENDA", BELGICA VS TUNEZ 7AM
+http:\\190.14.249.223:17032\play\a03w\index.m3u8
+#EXTINF:-1 group-title="AGENDA", TENIS: CHWALINSKA VS ANDREEVA 7AM
 http:\\190.14.249.223:17032\play\a03x\index.m3u8
-#EXTINF:-1 group-title="AGENDA", HUNGRIA VS FINLANDIA 11:45 AM
+#EXTINF:-1 group-title="AGENDA", F1: GP MONACO - CLASIFICACION 8AM
+http://181.209.96.155:10000/play/a15b/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PORTUGAL VS CHILE 11:45 AM
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", PARAGUAY VS NICARAGUA 16:15 PM
-https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", PARAGUAY VS NICARAGUA OPCIÓN 2
-https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8
-#EXTINF:-1 group-title="AGENDA", BOX: EDWARD VAZQUEZ VS DANIEL LUGO 17:30 PM
+#EXTINF:-1 group-title="AGENDA", PORTUGAL VS CHILE OPCION 2
+http:\\190.14.249.223:17032\play\a03w\index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS ALEMANIA 12:30 PM
+http://45.5.119.43:4000/play/a052/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS ALEMANIA OPCION 2
+http://200.125.170.122:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS ALEMANIA OPCION 3
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", BOX:JOSH PADLEY VS AQIB FIAZ 1PM
 http:\\190.14.249.223:17032\play\a03x\index.m3u8
-#EXTINF:-1 group-title="AGENDA", CANADÁ VS IRLANDA 17:30 PM (VPN)
-https://v14.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=DWc6C8sjvyJrDsMvEVHC4Q&expires=1780705710&user_id=T0tFYnJBdUJxRktVR0tkZE1hRDE1VTlqVW90ajdwTlF4UGsyNDVFSQ==
-#EXTINF:-1 group-title="AGENDA", HAITI VS PERÚ 6PM
-http://38.252.215.33:8000/play/a08j/index.m3u8
-#EXTINF:-1 group-title="AGENDA", HAITI VS PERÚ OPCIÓN 2
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PANAMA VS BOSNIA HERSEGOVINA 1PM
+https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", INGLATERRA VS NUEVA ZELANDA 2PM
+http:\\190.14.249.223:17032\play\a03w\index.m3u8
+#EXTINF:-1 group-title="AGENDA", BOLIVIA VS ESCOCIA 2PM
+http://45.5.119.43:4000/play/a054/index.m3u8
+#EXTINF:-1 group-title="AGENDA", BRASIL VS EGIPTO 4PM
+https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", BRASIL VS EGIPTO OPCION 2
+http:\\190.14.249.223:17032\play\a03w\index.m3u8
+#EXTINF:-1 group-title="AGENDA", VENEZUELA VS TURQUIA 4PM
+https://dai.google.com/linear/hls/pa/event/xl2VClgXQmKB5abFGlmyZQ/stream/a48c6752-471c-4a33-b451-57a96787230c:CHS/variant/00af4928e54b4171c983a3dc213fe091/bandwidth/5160000.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS HONDURAS 6PM
+https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS HONDURAS OPCION 2
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS HONDURAS OPCION 3
+http://200.115.120.1:8000/play/ca016/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS HONDURAS OPCION 4
+http:\\38.224.22.252:8000\play\a01n\index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS HONDURAS OPCION 5
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS HONDURAS OPCION 6
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1 group-title="AGENDA", BOX: BRANDON MOSQUEDA VS ISAAC ARANDA 8PM
+http:\\190.14.249.223:17032\play\a03w\index.m3u8
 
 # --- SECCIÓN: MÉXICO ---
 
