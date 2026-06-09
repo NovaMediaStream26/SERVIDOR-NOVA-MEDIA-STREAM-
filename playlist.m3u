@@ -230,24 +230,22 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-viz
 https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 
 # --- SECCIÓN: AGENDA ---
-#EXTINF:-1 group-title="AGENDA", PAISES BAJOS VS UZBEKISTAN 12:45 PM
+#EXTINF:-1 group-title="AGENDA", RD CONGO VS CHILE 9AM
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", FRANCIA VS IRLANDA DEL NORTE 13:10 PM
-http:\\190.14.249.223:17032\play\a03w\index.m3u8
-#EXTINF:-1 group-title="AGENDA", ATLETICO NACIONAL VS JUNIOR 4PM
+#EXTINF:-1 group-title="AGENDA", SUECIA F VS ITALIA F 11AM
+http:\\190.14.249.223:17032\play\a03x\index.m3u8
+#EXTINF:-1 group-title="AGENDA", RUSIA VS TRINIDAD Y TOBAGO 11AM
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", ATLETICO NACIONAL VS JUNIOR OPCION 2
-http://177.93.52.213:8196/play/a01f/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS PERU 8PM
+#EXTINF:-1 group-title="AGENDA", FRANCIA F VS IRLANDA F 1PM
+http:\\190.14.249.223:17032\play\a03x\index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS ISLANDIA 18:30 PM
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS PERU OPCION 2
-http:\\190.14.249.223:17032\play\a03w\index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS PERU OPCION 3
-http://45.5.119.43:4000/play/a052/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS PERU OPCION 4
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS PERU OPCION 5
-http://38.252.215.33:8000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS ISLANDIA OPCION 2
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS ISLANDIA OPCION 3
+http://200.115.120.1:8000/play/ca016/index.m3u8
+#EXTINF:-1 group-title="AGENDA", IRAQ VS VENEZUELA 7PM
+https://dai.google.com/linear/hls/pa/event/xl2VClgXQmKB5abFGlmyZQ/stream/422a9e74-3f74-40c3-8462-0e731e790c92:CHS/variant/00af4928e54b4171c983a3dc213fe091/bandwidth/5160000.m3u8
 
 # --- SECCIÓN: MÉXICO ---
 
