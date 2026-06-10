@@ -277,8 +277,6 @@ https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", CANAL 10 DURANGO
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
-#EXTINF:-1 group-title="MÉXICO", CANAL 15 ILCE SAMMA SABRE
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", CANAL 26 AGUASCALIENTES
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", CANAL 28
@@ -295,8 +293,6 @@ https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 group-title="MÉXICO", CREALA TV
 https://stream8.mexiserver.com:2000/hls/crealatv/crealatv.m3u8
-#EXTINF:-1 group-title="MÉXICO", DESPIERTA TV
-https://video2.lhdserver.es/despiertatv/live.m3u8
 #EXTINF:-1 group-title="MÉXICO", ECLIPSE TV
 https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
 #EXTINF:-1 group-title="MÉXICO", EL SONORENSE
@@ -361,8 +357,6 @@ https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", SQCS CANAL 4
 https://video0.rogohosting.com:19360/4982/4982.m3u8
-#EXTINF:-1 group-title="MÉXICO", SUPER 9 TV
-https://usher.ttvnw.net/api/channel/hls/super9tv2026.m3u8?sig=4eee2f69117a332b10bbd4c48e18e028b922f3f4&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22super9tv2026%22%2C%22channel_id%22%3A1438829285%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22478c7b5a4f8fea7e%22%2C%22expires%22%3A1776817189%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.151.101.17%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%7D
 #EXTINF:-1 group-title="MÉXICO", SUPER CHANNEL 12
 https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 group-title="MÉXICO", TELE SALTILLO
@@ -394,9 +388,9 @@ https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV CUATRO 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV GUANAJUATO
-https://live-ak.vimeocdn.com/exp=1776820644~acl=%2Fe459e19e-5c43-403e-8999-52f95af9a623_fmp4%2F%2A~hmac=268bd3e4482d751ee545c1bf7a360d530fe5f3f99591ac1f62fc7d368f570773/e459e19e-5c43-403e-8999-52f95af9a623_fmp4/avc/hls.m3u8
+https://live-ak.vimeocdn.com/exp=1781050762~acl=%2F7ce59375-a27f-4b75-a7d1-fdc830bbb4ab_fmp4%2F%2A~hmac=8001ce6916c332291472e035fdbc7fd8f16bbacbfd2105f96fc9efb736201a72/7ce59375-a27f-4b75-a7d1-fdc830bbb4ab_fmp4/aac/256000/en/chunklist.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV INDEPENDENCIA
-https://live-ak.vimeocdn.com/exp=1776820839~acl=%2F0dffdcb1-4e37-426a-8a63-91cb4992f23c%2F%2A~hmac=6360ddf9278bf0ae26ec3e41ae8d0f7d8b841bae32d501fb2e08153159df4532/0dffdcb1-4e37-426a-8a63-91cb4992f23c/avc/hls.m3u8
+https://live-ak.vimeocdn.com/exp=1781050903~acl=%2F562e6cd3-0103-4dcc-affa-9901eaa7cad5%2F%2A~hmac=8525fa9b0b5f481cb57f001afeb8e61c06332f2009c728deefbdb05b75c43d86/562e6cd3-0103-4dcc-affa-9901eaa7cad5/avc/540p/chunklist.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV LOBO DURANGO
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV MAR LA PAZ
@@ -477,15 +471,15 @@ https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731
 #EXTINF:-1 group-title="GUATEMALA", AURORA MEDIA FILMS
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL 3
-https://library-getafix.fireclip.tv/660dc14adb8980d7e2926c0a/live/index.m3u8
+http://45.166.93.156:9999/play/a07j/index.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL 6 PANADISH
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL 7
-https://d3r1d0jzdq322.cloudfront.net/original.m3u8
+http://45.166.93.156:9999/play/a07i/index.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL 9 BARBE TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8 
 #EXTINF:-1 group-title="GUATEMALA", CANAL 11
-http://tv.diablotv.net:8080/live/lorepelaez1/aAigAKxPyw/8256.m3u8
+http://181.119.108.27:7292/play/a06z/index.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL 13 ESQUIPULAS
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL 27
