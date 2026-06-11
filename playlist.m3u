@@ -230,16 +230,48 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-viz
 https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 
 # --- SECCIÓN: AGENDA ---
-#EXTINF:-1 group-title="AGENDA", MALAGA VS LAS PALMAS 1PM
-http:\\190.14.249.223:17032\play\a03x\index.m3u8
-#EXTINF:-1 group-title="AGENDA", PORTUGAL VS NIGERIA 13:45 PM
+#EXTINF:-1 group-title="AGENDA", MÉXICO VS SUDÁFRICA 1PM
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", PORTUGAL VS NIGERIA OPCION 2
-http:\\190.14.249.223:17032\play\a03w\index.m3u8
-#EXTINF:-1 group-title="AGENDA", INGLATERRA VS COSTA RICA 2PM
+#EXTINF:-1 group-title="AGENDA", MEXICO VS SUDÁFRICA OPCION 2
+http://200.115.120.1:8000/play/ca016/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MÉXICO VS SUDÁFRICA OPCIÓN 3
+http://38.224.175.2:8000/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MÉXICO VS SUDÁFRICA OPCIÓN 4
+http:\\190.14.249.223:17032\play\a067\index.m3u8
+#EXTINF:-1 group-title="AGENDA", MÉXICO VS SUDÁFRICA OPCIÓN 5
+http://130.51.23.173:8030/hls/canal3.m3u8
+#EXTINF:-1 group-title="AGENDA", MÉXICO VS SUDÁFRICA OPCIÓN 6
 http://181.78.109.48:9998/play/a02e/index.m3u8
-#EXTINF:-1 group-title="AGENDA", INGLATERRA VS COSTA RICA OPCION 2
-http://186.33.25.234:8125/play/a09g/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MÉXICO VS SUDÁFRICA OPCIÓN 7
+http://177.10.184.193:8000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MÉXICO VS SUDÁFRICA OPCIÓN 8
+http://181.119.108.27:7292/play/a06z/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MÉXICO VS SUDÁFRICA OPCIÓN 9
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
+#EXTINF:-1 group-title="AGENDA", MÉXICO VS SUDÁFRICA OPCIÓN 10
+http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MÉXICO VS SUDÁFRICA OPCIÓN 11 (VPN)
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="AGENDA", MÉXICO VS SUDÁFRICA OPCIÓN 12
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MÉXICO VS SUDÁFRICA OPCIÓN 13
+http://38.252.215.33:8000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MÉXICO VS SUDÁFRICA OPCIÓN 14
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 group-title="AGENDA", MÉXICO VS SUDÁFRICA OPCIÓN 15
+http://200.125.170.122:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COREA DEL SUR VS REPÚBLICA CHECA 8PM
+https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", COREA DEL SUR VS REPÚBLICA CHECA OPCIÓN 2
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", COREA DEL SUR VS REPÚBLICA CHECA OPCIÓN 3
+http://38.224.175.2:8000/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COREA DEL SUR VS REPÚBLICA CHECA OPCIÓN 4
+http://190.14.249.223:17032/play/a044/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COREA DEL SUR VS REPÚBLICA CHECA OPCIÓN 5
+http://177.10.184.193:8000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COREA DEL SUR VS REPÚBLICA CHECA OPCIÓN 6
+http://200.125.170.122:8000/play/a031/index.m3u8
 
 # --- SECCIÓN: MÉXICO ---
 
