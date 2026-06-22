@@ -230,71 +230,69 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-viz
 https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 
 # --- SECCIÓN: AGENDA ---
-#EXTINF:-1 group-title="AGENDA", MOTO GP: RACE - GP REPUBLICA CHECA 02:45 AM
-http:\\190.14.249.223:17032\play\a03x\index.m3u8
-#EXTINF:-1 group-title="AGENDA", TENIS: CERUNDOLO VS PAUL 06:30 AM
-http:\\190.14.249.223:17032\play\a03y\index.m3u8
-#EXTINF:-1 group-title="AGENDA", TENIS: FRITZ VS TIAFOE 07:30 AM
-http:\\190.14.249.223:17032\play\a03z\index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS ARABIA SAUDI 10AM
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA 11AM
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS ARABIA SAUDI OPCION 2
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 2
+https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 3
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS ARABIA SAUDI OPCION 3
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 4
 http://200.115.120.1:8000/play/ca016/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS ARABIA SAUDI OPCION 4
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 5
 http://38.224.175.2:8000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS ARABIA SAUDI OPCION 5
-http://190.14.249.223:17032/play/a044/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS ARABIA SAUDI OPCION 6
-http://181.78.109.48:9998/play/a02e/index.m3u8 
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS ARABIA SAUDI OPCION 7
-https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS ARABIA SAUDI OPCION 8
-http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS ARABIA SAUDI OPCION 9 (VPN)
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS ARABIA SAUDI OPCION 10
-https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS ARABIA SAUDI OPCION 11
-
-#EXTINF:-1 group-title="AGENDA", ESCOCIA VS MARRUECOS OPCION 6
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 6
+http:\\190.14.249.223:17032\play\a067\index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 7
 http://130.51.23.173:8030/hls/canal3.m3u8
-#EXTINF:-1 group-title="AGENDA", ESCOCIA VS MARRUECOS OPCION 7
-http://181.119.108.27:7292/play/a06z/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESCOCIA VS MARRUECOS OPCION 8
-https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:-1 group-title="AGENDA", ESCOCIA VS MARRUECOS OPCION 9
-http://200.125.170.122:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="AGENDA", BRASIL VS HAITI 18:30 PM
-https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", BRASIL VS HAITI OPCION 2
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", BRASIL VS HAITI OPCION 3
-http://38.224.175.2:8000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="AGENDA", BRASIL VS HAITI OPCION 4
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 8
 http://181.78.109.48:9998/play/a02e/index.m3u8 
-#EXTINF:-1 group-title="AGENDA", BRASIL VS HAITI OPCION 5
-http://181.119.108.27:7292/play/a06z/index.m3u8
-#EXTINF:-1 group-title="AGENDA", BRASIL VS HAITI OPCION 6
-https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
-#EXTINF:-1 group-title="AGENDA", BRASIL VS HAITI OPCION 7 (VPN)
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="AGENDA", BRASIL VS HAITI OPCION 8
-http://200.125.170.122:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="AGENDA", TURQUIA VS PARAGUAY 9PM
-https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", TURQUIA VS PARAGUAY OPCION 2
-http://38.224.175.2:8000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="AGENDA", TURQUIA VS PARAGUAY OPCION 3
-http://190.14.249.223:17032/play/a044/index.m3u8
-#EXTINF:-1 group-title="AGENDA", TURQUIA VS PARAGUAY OPCION 4
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 9
 https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:-1 group-title="AGENDA", TURQUIA VS PARAGUAY OPCION 5
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 10
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 11
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 12
+http://200.125.170.122:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 13
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", FRANCIA VS IRAQ 3PM
+https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", FRANCIA VS IRAQ OPCION 2
+http://38.224.175.2:8000/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", FRANCIA VS IRAQ OPCION 3
+http://181.119.108.27:7292/play/a06z/index.m3u8
+#EXTINF:-1 group-title="AGENDA", FRANCIA VS IRAQ OPCION 4
+https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion
+#EXTINF:-1 group-title="AGENDA", FRANCIA VS IRAQ OPCION 5
+http://200.125.170.122:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL 6PM
+https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 2
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 3
+http://38.224.175.2:8000/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 4
+http://190.14.249.223:17032/play/a044/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 5
+http://181.119.108.27:7292/play/a06z/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 6
+http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 7 (VPN)
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="AGENDA", NORUEGA VS SEBEGAL OPCION 8
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:-1 group-title="AGENDA", TURQUIA VS PARAGUAY OPCION 6
+#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 9
 http://38.252.215.33:8000/play/a08j/index.m3u8
-#EXTINF:-1 group-title="AGENDA", TURQUIA VS PARAGUAY OPCION 7
+#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 10
+http://200.125.170.122:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="AGENDA", JORDANIA VS ARGELIA 9PM
+https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", JORDANIA VS ARGELIA OPCION 2
+http://38.224.175.2:8000/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", JORDANIA VS ARGELIA OPCION 3
+http://181.119.108.27:7292/play/a06z/index.m3u8
+#EXTINF:-1 group-title="AGENDA", JORDANIA VS ARGELIA OPCION 4
 http://200.125.170.122:8000/play/a031/index.m3u8
 
 # --- SECCIÓN: MÉXICO ---
