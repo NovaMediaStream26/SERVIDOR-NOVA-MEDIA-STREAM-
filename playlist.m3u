@@ -307,12 +307,12 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", ASI SUCEDE GUANAJUATO
 https://stream.ontvmx.com/ontv/zqlQBcV1Ey6od9bDi3/playlist.m3u8
-#EXTINF:-1 group-title="MÉXICO", AZTECA 7 (VPN)
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="MÉXICO", AZTECA 7
+http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/534771.m3u8
 #EXTINF:-1 group-title="MÉXICO", AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 group-title="MÉXICO", AZTECA UNO (VPN)
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="MÉXICO", AZTECA UNO
+http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/534768.m3u8
 #EXTINF:-1 group-title="MÉXICO", B15 FRESNILLO
 https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", B15 ZACATECAS
@@ -345,8 +345,6 @@ https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", EXPRESA TV
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
-#EXTINF:-1 group-title="MÉXICO", ICRTV COLIMA
-https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", IERTBCS CANAL 8.2 LA PAZ
 https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", IERTBCS CANAL 8 LA PAZ
@@ -374,7 +372,7 @@ https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", NUEVE TV SAN LUIS POTOSÍ
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 group-title="MÉXICO", ONCE MEXICO
-https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
 #EXTINF:-1 group-title="MÉXICO", PRESUMIENDO MÉXICO
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", RADIOTELE MORELIA
@@ -421,8 +419,6 @@ https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 group-title="MÉXICO", TLAXCALA TELEVISIÓN
 https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
-#EXTINF:-1 group-title="MÉXICO", TRANSMEDIA TELEVISIÓN
-http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", TRC TELEVISIÓN
 https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", TURISTIK TV
@@ -433,10 +429,6 @@ https://tvenvivo.buap.mx/livestream/stream/index.m3u8
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV CUATRO 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:-1 group-title="MÉXICO", TV GUANAJUATO
-https://live-ak.vimeocdn.com/exp=1781050762~acl=%2F7ce59375-a27f-4b75-a7d1-fdc830bbb4ab_fmp4%2F%2A~hmac=8001ce6916c332291472e035fdbc7fd8f16bbacbfd2105f96fc9efb736201a72/7ce59375-a27f-4b75-a7d1-fdc830bbb4ab_fmp4/aac/256000/en/chunklist.m3u8
-#EXTINF:-1 group-title="MÉXICO", TV INDEPENDENCIA
-https://live-ak.vimeocdn.com/exp=1781050903~acl=%2F562e6cd3-0103-4dcc-affa-9901eaa7cad5%2F%2A~hmac=8525fa9b0b5f481cb57f001afeb8e61c06332f2009c728deefbdb05b75c43d86/562e6cd3-0103-4dcc-affa-9901eaa7cad5/avc/540p/chunklist.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV LOBO DURANGO
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV MAR LA PAZ
@@ -498,7 +490,7 @@ https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 group-title="MÉXICO", CANAL 5
 http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:-1 group-title="MÉXICO", AZTECA CLIC!
-http://45.173.74.2:2010/play/a0a3/index.m3u8
+http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/534787.m3u8
 #EXTINF:-1 group-title="MÉXICO", IMAGEN TELEVISIÓN
 http://187.245.231.226:8000/play/a0v2/index.m3u8
 #EXTINF:-1 group-title="MÉXICO", TLNOVELAS 
