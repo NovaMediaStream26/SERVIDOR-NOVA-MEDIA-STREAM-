@@ -689,27 +689,27 @@ https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 6 EL SALVADOR
 https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ATV
-https://es3-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Atv-UDP_abr/bitel/Atv-udp_360p/chunks.m3u8?timestamp=1780124943&wmkid=0&uid=11915237&token=522bcd452126b589048caa71d513ef02
+https://live-evg20.tv360.bitel.com.pe/RZdC2n7piCTydB7OhSdmmA/1782777585/bitel/Atv-UDP_abr/bitel/Atv-udp_360p/chunks.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV PERÚ
-http://38.252.215.33:8000/play/a08j/index.m3u8
+http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/428948.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CARACOL TV 
-http:\\190.14.249.223:17032\play\a067\index.m3u8
+http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/318375.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", DW CHANNEL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", E! CHANNEL
-http://200.125.170.122:8000/play/a02x/index.m3u8
+http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/318626.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ECUAVISA
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", LATINA TV
-https://es1-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Latina-UDP_abr/bitel/Latina-udp_480p/chunks.m3u8?timestamp=1780127859&wmkid=0&uid=11915237&token=936fccaa797e2cbb4a21df820035e269
+https://live-evg20.tv360.bitel.com.pe/wkiSYEOBQ5Yu2cdv5ARXKA/1782778335/bitel/Latina-UDP_abr/bitel/Latina-udp_480p/chunks.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", PASIONES
-http://200.125.170.122:8000/play/a064/index.m3u8
+http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/135435.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", RCN
 http://130.51.23.173:8030/hls/canal3.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", RT EN ESPAÑOL 
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TLC
-http://200.125.170.122:8000/play/a09v/index.m3u8
+http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/318629.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TELEFE
 http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", A24
@@ -717,11 +717,11 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 #EXTINF:-1 group-title="INTERNACIONALES", UNIVISION
 http://45.167.2.101:8000/play/a0la/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", WILLAX TV
-https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_480p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/4RAFqC7QWd82BTLzJ40Ptw/1782778665/bitel/Willax-UDP_abr/bitel/Willax-udp_360p/chunks.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TV PUBLICA ARGENTINA
 https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONALES", EL NUEVE
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
+http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/490460.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ARGENTINISIMA
@@ -743,11 +743,11 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master_57
 #EXTINF:-1 group-title="INTERNACIONALES", SKY NEWS EXTRA 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ATB LA PAZ
-https://live.eu-north-1b.cf.dmcdn.net/sec2(azXgg6pRI2sr5LCIrvGa0X0ohSXbn_Ma7oVxiiwqBJ1Jdc3k__b5SFpR0JLC2cgDKzqe40yZ6CM2RhXI44CyOsEWJReLoKsV3vbw1afL0NGzJmUvQFxvcJzA8YthnBY1)/dm/3/x84eirw/s/live-380.m3u8
+http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", BOLIVISION
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ATV+
-https://es1-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Atv+-UDP_abr/bitel/Atv+-udp_360p/chunks.m3u8?timestamp=1780131057&wmkid=0&uid=11915237&token=39f08b36be01c3fab498a1becb52a143
+https://live-evg20.tv360.bitel.com.pe/rd8QUxu8vQ_9lsIa1bBiWQ/1782779088/bitel/Atv+-UDP_abr/bitel/Atv+-udp_480p/chunks.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", AL JAZEERA
 https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV ARGENTINA
@@ -765,7 +765,7 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 13 TELESERIES
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CHILEVISION
-https://jireh-5-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist_4000.m3u8?
+http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/58287.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", MEGA CHILE
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONALES", TVN CHILE (VPN)
