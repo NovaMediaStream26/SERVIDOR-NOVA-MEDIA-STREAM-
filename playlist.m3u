@@ -784,7 +784,7 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AXN
 http://45.166.93.156:9999/play/a0h0/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TELEMUNDO 
-http://200.125.170.122:8000/play/a031/index.m3u8
+http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/490412.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TNT
 http://181.78.21.174:8015/play/a041/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TNT SERIES
