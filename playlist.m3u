@@ -567,8 +567,6 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 # --- SECCIÓN: HONDURAS ---
 
-#EXTINF:-1 group-title="HONDURAS", A+ HONDURAS
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="HONDURAS", ALSACIAS TELEVISIÓN
 https://s.emisoras.tv:8081/atv/index.m3u8
 #EXTINF:-1 group-title="HONDURAS", CAMPUS TV
@@ -607,8 +605,6 @@ https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", LENCA TELEVISIÓN CANAL 40
 https://lencatelevision.com/hls/stream.m3u8
-#EXTINF:-1 group-title="HONDURAS", MÁS NOTICIAS TELEVISIÓN
-https://www.amixtv.com:8081/mntvh/index.m3u8
 #EXTINF:-1 group-title="HONDURAS", METRO TV
 https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:-1 group-title="HONDURAS", OMEGA TV
@@ -631,8 +627,6 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 https://teleceiba.com/stream/tlcb720.m3u8
 #EXTINF:-1 group-title="HONDURAS", TELEDANLI
 https://live20.bozztv.com/giatv/giatv-canal9/canal9/chunks.m3u8
-#EXTINF:-1 group-title="HONDURAS", TELEMÁS
-https://viewhn.com/telemas/live/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", TELEPROGRESO
 https://tv.webmedialive.com/teleprogreso/live/chunks.m3u8
 #EXTINF:-1 group-title="HONDURAS", TELERAYO
@@ -641,8 +635,6 @@ https://s.emisoras.tv:8081/telerayo/index.m3u8
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", TELEVISIÓN OLANCHANA
 https://viewhn.com/canal30/live/playlist.m3u8
-#EXTINF:-1 group-title="HONDURAS", TEN CANAL 10
-https://live.eu-north-1a.cf.dmcdn.net/sec2(z_IhUWkp_1zBUTNoe6o3eE_YTfsiSAWl8w29FCJ6ZZjpLXqVSdcWu4nz6Hyap42nW37jgUgIOUg-ctAHXXg8xRDLbamg9AKaWr65fdt4tWJYIP-7lBWE_a1wrCpyoFCs)/dm/3/x8uk5ou/d/live-480.m3u8
 #EXTINF:-1 group-title="HONDURAS", TSI
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 #EXTINF:-1 group-title="HONDURAS", TV CENTRO 27.2
@@ -651,8 +643,6 @@ https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", TV COPÁN
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
-#EXTINF:-1 group-title="HONDURAS", VTV
-https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
 
 # --- SECCIÓN: INTERNACIONALES ---
 
