@@ -903,21 +903,21 @@ https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlis
 # --- SECCIÓN: INFANTILES ---
 
 #EXTINF:-1 group-title="INFANTILES", CARTOON NETWORK
-http://200.125.170.122:8000/play/a00x/index.m3u8
+http://45.190.184.79:5800/play/a014/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", CARTOONITO
-http://200.125.170.122:8000/play/a0cp/index.m3u8
+http://45.190.184.79:5800/play/a016/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", DISCOVERY KIDS
-http://200.125.170.122:8000/play/a00j/index.m3u8
+http://45.190.184.79:5800/play/a00q/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", DISNEY CHANNEL
-http://200.125.170.122:8000/play/a057/index.m3u8
+http://45.190.184.79:5800/play/a04e/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", DISNEY JUNIOR
-http://200.125.170.122:8000/play/a0cq/index.m3u8
+http://45.190.184.79:5800/play/a017/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", NICKELODEON
 http://179.60.51.134:8888/NICK/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", TOONCAST
 http://181.119.108.27:7292/play/a03k/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", BABY TV
-http://200.125.170.122:8000/play/a002/index.m3u8
+http://45.190.184.79:5800/play/a00a/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", NICK JR
 http://45.167.2.138:8000/play/a0qw/index.m3u8
 
@@ -935,36 +935,32 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlistR1080p.m3u8
 #EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", AZTECA DEPORTES EN VIVO
-http://45.173.74.2:2010/play/a07g/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", DAZN COMBAT
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="DEPORTES", ECDF
-http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/2363.m3u8
 #EXTINF:-1 group-title="DEPORTES", DSPORTS
-http://38.224.175.2:8000/play/a0l4/index.m3u8
+http://45.190.184.79:5800/play/ditv/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", DSPORTS +
-http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/9464.m3u8
+http://38.199.5.160:8000/play/a09q/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", DSPORTS 2
-http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/9463.m3u8
+http://190.61.41.181:8000/play/a0r4/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 1
-http:\\190.14.249.223:17032\play\a03w\index.m3u8
+http://45.190.184.79:5800/play/a03r/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2
-http:\\190.14.249.223:17032\play\a03x\index.m3u8
+http://45.190.184.79:5800/play/a03s/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3
-http:\\190.14.249.223:17032\play\a03y\index.m3u8
+http://45.190.184.79:5800/play/a02q/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 4
-http:\\190.14.249.223:17032\play\a03z\index.m3u8
+http://45.190.184.79:5800/play/esp4/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 5
-http:\\190.14.249.223:17032\play\a040\index.m3u8
+http://45.190.184.79:5800/play/a05l/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 6
-http:\\190.14.249.223:17032\play\a041\index.m3u8
+http://45.190.184.79:5800/play/a01i/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 7
-http:\\190.14.249.223:17032\play\a042\index.m3u8
+http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/418593.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN PREMIUM
-http://181.13.252.102:8000/play/a078/index.m3u8
+http://45.190.184.79:5800/play/espp/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 ARGENTINA
-http://181.209.96.155:10000/play/a15b/index.m3u8
+http://45.6.4.35/FOX_SPORT/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 ARGENTINA
 http://181.13.252.102:8000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3
@@ -978,7 +974,7 @@ http://181.78.109.48:9998/play/a05x/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TIGO SPORTS COSTA RICA
 http://177.10.184.193:8000/play/a09k/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", CLARO SPORTS
-http://200.125.170.122:8000/play/a0dk/index.m3u8
+http://45.190.184.79:5800/play/a04j/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 MEXICO
 http://45.167.2.138:8000/play/a0ql/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 MEXICO
@@ -991,20 +987,14 @@ http://187.245.231.226:8000/play/a0uy/index.m3u8
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT SPORTS PREMIUM
 http://200.115.120.1:8000/play/ca040/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TNT SPORTS PREMIUM CHILE
-http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/417206.m3u8
-#EXTINF:-1 group-title="DEPORTES", TNT SPORTS CHILE
-http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/417209.m3u8
-#EXTINF:-1 group-title="DEPORTES", TUDN
-http://201.151.118.136:8000/play/a00g/index.m3u8?hls
 #EXTINF:-1 group-title="DEPORTES", TYC SPORTS 
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", WIN SPORTS
-http://190.14.249.223:17032/play/a044/index.m3u8
+http://45.190.184.79:5800/play/win1/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", WIN SPORTS +
 http://177.93.52.213:8196/play/a01f/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN COLOMBIA
-http:\\190.217.66.92:8000\play\a0di\index.m3u8
+http://45.190.184.79:5800/play/a03r/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT USA (VPN)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN USA
@@ -1026,9 +1016,9 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 USA (VPN)
 https://v15.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=0TdRAmSEN98N8jbgmDkVww&expires=1778622456&user_id=ODQuMjAuMjcuMTY3
 #EXTINF:-1 group-title="DEPORTES", GOLF CHANNEL
-http://200.125.170.122:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", MLB NETWORK
-http://avefenixtv.com:80/live/and921agui/Rk39nz3xP/596508.m3u8
+http://23.237.104.106:8080/USA_GOLF/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", MLB NETWORK (VPN)
+https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", MOTORTREND
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", NFL NETWORK (VPN)
@@ -1057,20 +1047,6 @@ https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="DEPORTES", TVC DEPORTES MEXICO
 http:\\209.87.175.160:5001\play\a0kl\index.m3u8
-#EXTINF:-1 group-title="DEPORTES", PREMIERE 1
-http://cdn.arrascacrf.site:80/872730437447/587407912989/1479725.m3u8
-#EXTINF:-1 group-title="DEPORTES", PREMIERE 2
-http://cdn.arrascacrf.site:80/872730437447/587407912989/93538.m3u8
-#EXTINF:-1 group-title="DEPORTES", PREMIERE 3
-http://cdn.arrascacrf.site:80/872730437447/587407912989/93539.m3u8
-#EXTINF:-1 group-title="DEPORTES", PREMIERE 4
-http://cdn.arrascacrf.site:80/872730437447/587407912989/93540.m3u8
-#EXTINF:-1 group-title="DEPORTES", PREMIERE 5
-http://cdn.arrascacrf.site:80/872730437447/587407912989/93541.m3u8
-#EXTINF:-1 group-title="DEPORTES", PREMIERE 6
-http://cdn.arrascacrf.site:80/872730437447/587407912989/93542.m3u8
-#EXTINF:-1 group-title="DEPORTES", PREMIERE 7
-http://cdn.arrascacrf.site:80/872730437447/587407912989/93544.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 1 MEXICO
 http://45.5.119.43:4000/play/a052/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2 MEXICO
@@ -1078,7 +1054,7 @@ http://45.5.119.43:4000/play/a053/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 MEXICO
 http://45.5.119.43:4000/play/a054/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 4 MEXICO
-http://200.125.170.122:8000/play/a0en/index.m3u8
+http://181.78.109.48:9998/play/a02d/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TELEDEPORTE
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
