@@ -547,7 +547,7 @@ http://45.166.93.156:9999/play/a0i3/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ANIMAL PLANET
 http://45.190.184.79:5800/play/a03o/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY ID
-http://45.190.184.79:5800/play/a04i/index.m3u8
+http://181.78.197.59:8000/play/a08a/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY CHANNEL
 http://45.190.184.79:5800/play/a03n/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY H&H
