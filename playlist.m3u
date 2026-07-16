@@ -549,15 +549,15 @@ http://45.190.184.79:5800/play/a03o/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY ID
 http://181.78.197.59:8000/play/a08a/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY CHANNEL
-http://45.190.184.79:5800/play/a03n/index.m3u8
+http://181.78.197.59:8000/play/a086/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY H&H
-http://45.190.184.79:5800/play/a04h/index.m3u8
+http://45.166.93.156:9999/play/a0f7/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY SCIENCE
-http://45.190.184.79:5800/play/a00g/index.m3u8
+http://45.166.93.156:9999/play/a0hi/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY THEATER
 http://177.10.184.193:8000/play/a09n/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY TURBO
-http://45.190.184.79:5800/play/a04g/index.m3u8
+http://45.166.93.156:9999/play/a0f6/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY WORLD
 http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/318613.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", EL GOURMET
