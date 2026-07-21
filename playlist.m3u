@@ -603,15 +603,15 @@ http://45.190.184.79:5800/play/a06q/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL TV
 http://186.33.25.234:8125/play/a05s/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO
-http://191.97.63.182:8888/play/a0c6/index.m3u8
+http://181.78.197.59:8000/play/a07d/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO 2
-http://45.5.119.43:4000/play/a00c/index.m3u8
+http://181.78.197.59:8000/play/a07e/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO FAMILY
-http://45.5.119.43:4000/play/a0l5/index.m3u8
+http://181.78.197.59:8000/play/a07g/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO +
-http://45.5.119.43:4000/play/a0l4/index.m3u8
+http://181.78.197.59:8000/play/a07f/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO XTREME
-http://45.5.119.43:4000/play/a0l6/index.m3u8
+http://181.78.197.59:8000/play/a07h/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TNT NOVELAS
 http://45.190.184.79:5800/play/a01f/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL COMEDY
