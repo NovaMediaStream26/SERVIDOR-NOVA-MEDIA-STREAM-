@@ -1,17 +1,5 @@
 #EXTM3U
 
-# --- SECCIÓN: TERREMOTO CHIAPAS ---
-#EXTINF:-1 group-title="TERREMOTO", ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="TERREMOTO", CANAL 3 GUATEMALA
-http://45.166.93.156:9999/play/a07j/index.m3u8
-#EXTINF:-1 group-title="TERREMOTO", CANAL 7 GUATEMALA
-http://45.166.93.156:9999/play/a07i/index.m3u8
-#EXTINF:-1 group-title="TERREMOTO", CANAL ANTIGUA
-https://5ca9af4645e15.streamlock.net:443/antigua/antigua.smil/playlist.m3u8
-#EXTINF:-1 group-title="TERREMOTO", TN23
-https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_15609871089997455276_hls.m3u8
-
 # --- SECCIÓN: AGENDA ---
 #EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA 11AM
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
@@ -615,7 +603,7 @@ http://45.190.184.79:5800/play/a06q/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL TV
 http://186.33.25.234:8125/play/a05s/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO
-http://45.5.119.43:4000/play/a0l2/index.m3u8
+http://191.97.63.182:8888/play/a0c6/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO 2
 http://45.5.119.43:4000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO FAMILY
