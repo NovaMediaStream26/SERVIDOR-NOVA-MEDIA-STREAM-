@@ -259,11 +259,11 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 group-title="MÉXICO", MULTIMEDIOS SALTILLO
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 group-title="MÉXICO", CANAL 5
-http://45.5.119.43:4000/play/a05o/index.m3u8
+http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/135430.m3u8
 #EXTINF:-1 group-title="MÉXICO", AZTECA CLIC!
-http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/534787.m3u8
+http://200.229.147.210:9999/play/a0ap/index.m3u8
 #EXTINF:-1 group-title="MÉXICO", IMAGEN TELEVISIÓN
-http://187.245.231.226:8000/play/a0v2/index.m3u8
+http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/534774.m3u8
 #EXTINF:-1 group-title="MÉXICO", TLNOVELAS 
 http://187.245.231.226:8000/play/a0uv/index.m3u8
 #EXTINF:-1 group-title="MÉXICO", UNICABLE
@@ -426,7 +426,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", LA 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ANTENA 3
-http://177.10.184.193:8000/play/a06a/index.m3u8
+http://200.229.147.210:9999/play/a005/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", EL TRECE
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 4 REPRETEL
@@ -440,31 +440,31 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 11 REPRETEL 
 http://186.33.25.234:8125/play/a09h/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 2 EL SALVADOR 
-https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
+http://200.229.147.210:9999/play/a05t/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 6 EL SALVADOR
-https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
+http://200.229.147.210:9999/play/a04l/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ATV
-https://live-evg20.tv360.bitel.com.pe/RZdC2n7piCTydB7OhSdmmA/1782777585/bitel/Atv-UDP_abr/bitel/Atv-udp_360p/chunks.m3u8
+http://199.188.103.176:8000/play/a0dc/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV PERÚ
-http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/428948.m3u8
+http://199.188.103.176:8000/play/a05r/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CARACOL TV 
-http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/318375.m3u8
+http://38.134.250.110:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", DW CHANNEL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", E! CHANNEL
-http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/318626.m3u8
+http://38.134.250.110:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ECUAVISA
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", LATINA TV
-https://live-evg20.tv360.bitel.com.pe/wkiSYEOBQ5Yu2cdv5ARXKA/1782778335/bitel/Latina-UDP_abr/bitel/Latina-udp_480p/chunks.m3u8
+http://38.210.3.64:8090/play/a0c0/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", PASIONES
-http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/135435.m3u8
+http://38.210.3.64:8090/play/a0kb/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", RCN
-http://130.51.23.173:8030/hls/canal3.m3u8
+http://38.134.250.110:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", RT EN ESPAÑOL 
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TLC
-http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/318629.m3u8
+http://38.134.250.110:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TELEFE
 http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", A24
@@ -472,7 +472,7 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 #EXTINF:-1 group-title="INTERNACIONALES", UNIVISION
 http://45.167.2.101:8000/play/a0la/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", WILLAX TV
-https://live-evg20.tv360.bitel.com.pe/4RAFqC7QWd82BTLzJ40Ptw/1782778665/bitel/Willax-UDP_abr/bitel/Willax-udp_360p/chunks.m3u8
+http://38.224.175.2:8000/play/a08c/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TV PUBLICA ARGENTINA
 https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONALES", EL NUEVE
@@ -498,11 +498,11 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master_57
 #EXTINF:-1 group-title="INTERNACIONALES", SKY NEWS EXTRA 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ATB LA PAZ
-http://186.121.206.197/live/daniel/index.m3u8
+http://15.204.246.24:8080/ATBHD/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", BOLIVISION
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ATV+
-https://live-evg20.tv360.bitel.com.pe/rd8QUxu8vQ_9lsIa1bBiWQ/1782779088/bitel/Atv+-UDP_abr/bitel/Atv+-udp_480p/chunks.m3u8
+http://199.188.103.176:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", AL JAZEERA
 https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV ARGENTINA
@@ -520,11 +520,11 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 13 TELESERIES
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CHILEVISION
-http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/58287.m3u8
+http://190.90.154.112:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", MEGA CHILE
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="INTERNACIONALES", TVN CHILE (VPN)
-https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", TVN CHILE
+http://45.162.193.35/TVN/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TV NOSARA
@@ -539,13 +539,13 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AXN
 http://45.166.93.156:9999/play/a0h0/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TELEMUNDO 
-http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/490412.m3u8
+http://45.190.13.8/TelemundoHD/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TNT
 http://200.229.147.210:9999/play/a035/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TNT SERIES
 http://45.166.93.156:9999/play/a0i3/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ANIMAL PLANET
-http://45.190.184.79:5800/play/a03o/index.m3u8
+http://179.60.224.196:8000/play/a0el/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY ID
 http://181.78.197.59:8000/play/a08a/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY CHANNEL
@@ -555,35 +555,35 @@ http://45.166.93.156:9999/play/a0f7/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY SCIENCE
 http://45.166.93.156:9999/play/a0hi/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY THEATER
-http://177.10.184.193:8000/play/a09n/index.m3u8
+http://190.60.55.141:9083/play/a0nh/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY TURBO
 http://45.166.93.156:9999/play/a0f6/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY WORLD
-http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/318613.m3u8
+http://190.60.55.141:9083/play/a0gn/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", EL GOURMET
-http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/318616.m3u8
+http://190.60.55.141:9083/play/a0ep/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HISTORY 2
-http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/318618.m3u8
+http://190.60.55.141:9083/play/a0hf/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HISTORY
-http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/318617.m3u8
+http://190.60.55.141:9083/play/a0la/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", NATIONAL GEOGRAPHIC
-http://45.190.184.79:5800/play/a01g/index.m3u8
+http://187.245.231.226:8000/play/a0px/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", A&E
 http://45.166.93.156:9999/play/a08b/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AMC
-http://45.190.184.79:5800/play/a01n/index.m3u8
+http://187.245.231.226:8000/play/a0lw/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ANTENA 3 SERIES
-http://45.190.184.79:5800/play/a00j/index.m3u8
+http://200.115.120.1:8000/play/ca038/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINECANAL
-http://45.190.184.79:5800/play/a03y/index.m3u8
+http://187.245.231.226:8000/play/a0od/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINEMAX
-http://45.5.119.43:4000/play/a0il/index.m3u8
+http://187.245.231.226:8000/play/a0uf/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", COMEDY CENTRAL
 http://45.167.2.138:8000/play/a0rd/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", FX
-http://45.5.119.43:4000/play/a0gw/index.m3u8
+http://187.245.231.226:8000/play/a0n4/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", GOLDEN
-http://45.5.119.43:4000/play/a0jv/index.m3u8
+http://187.245.231.226:8000/play/a0nh/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", GOLDEN EDGE
 http://45.167.2.138:8000/play/a0sb/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", GOLDEN PREMIER
@@ -593,13 +593,13 @@ http://186.33.25.234:8125/play/a0bs/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SPACE
 http://181.78.197.59:8000/play/a09e/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL
-http://45.5.119.43:4000/play/a0hn/index.m3u8
+http://187.245.231.226:8000/play/a0oa/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", STUDIO UNIVERSAL
-http://45.190.184.79:5800/play/a04s/index.m3u8
+http://187.245.231.226:8000/play/a0ug/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CINEMA
-http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/414523.m3u8
+http://187.245.231.226:8000/play/a0q5/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIER
-http://45.190.184.79:5800/play/a06q/index.m3u8
+http://187.245.231.226:8000/play/a0oq/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL TV
 http://186.33.25.234:8125/play/a05s/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO
@@ -613,66 +613,66 @@ http://181.78.197.59:8000/play/a07f/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO XTREME
 http://181.78.197.59:8000/play/a07h/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TNT NOVELAS
-http://45.190.184.79:5800/play/a01f/index.m3u8
+http://187.245.231.226:8000/play/a0rv/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL COMEDY
-http://45.190.184.79:5800/play/a06u/index.m3u8
+http://187.245.231.226:8000/play/a0ou/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CRIME
-http://45.190.184.79:5800/play/a06t/index.m3u8
+http://187.245.231.226:8000/play/a0ot/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL REALITY
-http://45.190.184.79:5800/play/a06s/index.m3u8
+http://187.245.231.226:8000/play/a0os/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", WARNER CHANNEL
-http://45.5.119.43:4000/play/a0ho/index.m3u8
+http://187.245.231.226:8000/play/a0ob/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", EUROPA EUROPA
-http://45.190.184.79:5800/play/a06b/index.m3u8
+http://187.245.231.226:8000/play/a0mf/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY FAMILIA
-http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/318615.m3u8
+http://200.115.120.1:8000/play/ca053/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HGTV
-http://rlatinop.com:8880/JhulVilla/cbQqwVXHT3KF/318631
+http://200.115.120.1:8000/play/ca61/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TCM
-http://45.190.184.79:5800/play/a02y/index.m3u8
+http://187.245.231.226:8000/play/a0ni/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HOLA TV!
-http://45.190.184.79:5800/play/a06m/index.m3u8
+http://187.245.231.226:8000/play/a0om/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", LIFETIME
-http://45.190.184.79:5800/play/a01h/index.m3u8
+http://187.245.231.226:8000/play/a0lq/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CNN EN ESPAÑOL
-http://45.190.184.79:5800/play/a01o/index.m3u8
+http://187.245.231.226:8000/play/a0lx/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DHE
-http://45.190.184.79:5800/play/a06d/index.m3u8
+http://187.245.231.226:8000/play/a0qb/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", BANDAMAX
 http://45.171.64.30:2000/play/a08h/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINE LATINO
-http://45.190.184.79:5800/play/a04q/index.m3u8
+http://187.245.231.226:8000/play/a0ue/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CITY TV
-http://190.61.34.164:8000/play/a03u/index.m3u8
+http://181.78.8.199:8000/play/a0ek/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", FILM & ARTS
-http://45.190.184.79:5800/play/a066/index.m3u8
+http://187.245.231.226:8000/play/a0l6/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SONY MOVIES
-http://45.190.184.79:5800/play/a06c/index.m3u8
+http://187.245.231.226:8000/play/a0mg/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", KANAL D DRAMA
-https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+http://38.224.175.2:8000/play/a0sq/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSO
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CNBC
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist1080_p.m3u8
 
 # --- SECCIÓN: INFANTILES ---
 
 #EXTINF:-1 group-title="INFANTILES", CARTOON NETWORK
-http://45.190.184.79:5800/play/a014/index.m3u8
+http://187.245.231.226:8000/play/a0mp/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", CARTOONITO
-http://45.190.184.79:5800/play/a016/index.m3u8
+http://187.245.231.226:8000/play/a0lg/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", DISCOVERY KIDS
-http://45.190.184.79:5800/play/a00q/index.m3u8
+http://187.245.231.226:8000/play/a0u0/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", DISNEY CHANNEL
-http://45.190.184.79:5800/play/a04e/index.m3u8
+http://187.245.231.226:8000/play/a0u2/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", DISNEY JUNIOR
-http://45.190.184.79:5800/play/a017/index.m3u8
+http://187.245.231.226:8000/play/a0lh/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", NICKELODEON
 http://179.60.51.134:8888/NICK/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", TOONCAST
-http://181.119.108.27:7292/play/a03k/index.m3u8
+http://187.245.231.226:8000/play/a0nv/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", BABY TV
-http://45.190.184.79:5800/play/a00a/index.m3u8
+http://179.60.224.196:8000/play/a0ef/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", NICK JR
 http://45.167.2.138:8000/play/a0qw/index.m3u8
 
@@ -681,9 +681,9 @@ http://45.167.2.138:8000/play/a0qw/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ULTRAS TV
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", LIGA 1 MAX
-http://8.243.126.131:8000/play/a063/index.m3u8
+http://38.224.175.2:8000/play/a07e/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", SKY SPORTS LALIGA
-http://181.119.108.27:7292/play/a0ae/index.m3u8
+http://190.105.128.198:5800/play/a087/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", BEIN SPORTS XTRA Ñ
