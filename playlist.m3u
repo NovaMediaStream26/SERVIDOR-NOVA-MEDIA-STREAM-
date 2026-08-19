@@ -1,35 +1,35 @@
 #EXTM3U
 
 # --- SECCIÓN: AGENDA ---
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA 11AM
+#EXTINF:-1 group-title="AGENDA", BARCELONA VS AL AHLY 12PM
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 2
-https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 3
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 4
-http://200.115.120.1:8000/play/ca016/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 5
-http://38.224.175.2:8000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 6
-http:\\190.14.249.223:17032\play\a067\index.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 7
-http://130.51.23.173:8030/hls/canal3.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 8
-http://181.78.109.48:9998/play/a02e/index.m3u8 
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 9
-https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 10
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 11
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 12
-http://200.125.170.122:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS AUSTRIA OPCION 13
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", FRANCIA VS IRAQ 3PM
+#EXTINF:-1 group-title="AGENDA", BARCELONA VS AL AHLY OPCION 2
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLETICO MADRID VS MALAGA
+http:\\45.5.117.57:8200\play\a050\index.m3u8
+#EXTINF:-1 group-title="AGENDA", SLOVAN BRATISLAVA VS CELJE 1PM
+http://38.134.250.110:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NEC NIJMEGEN VS BODO/GLIMT 1PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", HAPOEL BEER SHEVA VS SABAH 1PM
+http://38.134.250.110:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CELTIC VS LASK 1 PM
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COBAN IMPERIAL VS ANTIGUA GFC 3PM
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", FRANCIA VS IRAQ OPCION 2
+#EXTINF:-1 group-title="AGENDA", COBAN IMPERIAL VS ANTIGUA GFC OPCION 2
+http://186.33.25.234:8125/play/a0e5/index.m3u8
+#EXTINF:-1 group-title="AGENDA", AGUILAS DORADAS VS LLANEROS 3PM
+http://177.93.52.213:8196/play/a01f/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLETICO MINEIRO VS RB BRAGANTINO 4PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CERRO PORTEÑO VS PALMEIRAS 4PM
+https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", CERRO PORTEÑO VS PALMEIRAS OPCION 2
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COQUIMBO UNIDO VS PLATENSE 4PM
+http://38.134.250.110:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="AGENDA", RACING CLUB VS BELGRANO 16:15 PM
 http://38.224.175.2:8000/play/a0l4/index.m3u8
 #EXTINF:-1 group-title="AGENDA", FRANCIA VS IRAQ OPCION 3
 http://181.119.108.27:7292/play/a06z/index.m3u8
