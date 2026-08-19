@@ -30,41 +30,25 @@ http://38.134.250.110:8000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="AGENDA", COQUIMBO UNIDO VS PLATENSE 4PM
 http://38.134.250.110:8000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="AGENDA", RACING CLUB VS BELGRANO 16:15 PM
-http://38.224.175.2:8000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="AGENDA", FRANCIA VS IRAQ OPCION 3
-http://181.119.108.27:7292/play/a06z/index.m3u8
-#EXTINF:-1 group-title="AGENDA", FRANCIA VS IRAQ OPCION 4
-https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:-1 group-title="AGENDA", FRANCIA VS IRAQ OPCION 5
-http://200.125.170.122:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL 6PM
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsp
+#EXTINF:-1 group-title="AGENDA", CÚCUTA DEPORTIVO VS INTER BOGOTÁ 5PM
 https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 2
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 3
-http://38.224.175.2:8000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 4
-http://190.14.249.223:17032/play/a044/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 5
-http://181.119.108.27:7292/play/a06z/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 6
-http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 7 (VPN)
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="AGENDA", NORUEGA VS SEBEGAL OPCION 8
-https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 9
-http://38.252.215.33:8000/play/a08j/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NORUEGA VS SENEGAL OPCION 10
-http://200.125.170.122:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="AGENDA", JORDANIA VS ARGELIA 9PM
-https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", JORDANIA VS ARGELIA OPCION 2
-http://38.224.175.2:8000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="AGENDA", JORDANIA VS ARGELIA OPCION 3
-http://181.119.108.27:7292/play/a06z/index.m3u8
-#EXTINF:-1 group-title="AGENDA", JORDANIA VS ARGELIA OPCION 4
-http://200.125.170.122:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="AGENDA", TORQUE VS TIGRE 18:30 PM
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:-1 group-title="AGENDA", SANTA FE VS RIVER PLATE 18:30 PM
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="AGENDA", FLAMENGO VS CRUZEIRO 18:30 PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MIXCO VS UMECIT 7PM
+https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr2/chunks.m3u8
+#EXTINF:-1 group-title="AGENDA", MARATHON VS ALIANZA 7PM
+https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/chunks.m3u8
+#EXTINF:-1 group-title="AGENDA", MARATHON VS ALIANZA OPCIÓN 2
+http://186.33.61.182:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", FAS VS MUNICIPAL 9PM
+https://lbgo.bozztv.com/ssh101/ssh101/ultrastvcr/chunks.m3u8
+#EXTINF:-1 group-title="AGENDA", FAS VS MUNICIPAL OPCIÓN 2
+http://186.33.61.182:8000/play/a050/index.m3u8
 
 # --- SECCIÓN: MÉXICO ---
 
