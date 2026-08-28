@@ -573,7 +573,7 @@ http://45.167.2.138:8000/play/a0sb/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", GOLDEN PREMIER
 http://45.186.106.207:8000/play/a06v/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SONY CHANNEL
-http://186.33.25.234:8125/play/a0bs/index.m3u8
+http://181.78.8.199:8000/play/a0ao/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SPACE
 http://181.78.197.59:8000/play/a09e/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL
@@ -585,7 +585,7 @@ http://187.245.231.226:8000/play/a0q5/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIER
 http://187.245.231.226:8000/play/a0oq/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL TV
-http://186.33.25.234:8125/play/a05s/index.m3u8
+http:\\15.204.246.24:8080\UniversalHD\index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO
 http://181.78.197.59:8000/play/a07d/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO 2
