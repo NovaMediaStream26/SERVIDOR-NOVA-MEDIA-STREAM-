@@ -565,7 +565,7 @@ http://187.245.231.226:8000/play/a0q5/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIER
 http://187.245.231.226:8000/play/a0oq/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL TV
-http:\\15.204.246.24:8080\UniversalHD\index.m3u8
+http://181.78.8.199:8000/play/a0ce/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO
 http://181.78.197.59:8000/play/a07d/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO 2
