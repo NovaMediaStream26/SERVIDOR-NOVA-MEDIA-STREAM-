@@ -76,8 +76,6 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://stream.crealatv.com/live.m3u8
 #EXTINF:-1 group-title="MÉXICO", ECLIPSE TV
 https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
-#EXTINF:-1 group-title="MÉXICO", EL SONORENSE
-https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", EXPRESA TV
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", IERTBCS CANAL 8.2 LA PAZ
@@ -134,8 +132,6 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", SIZART CANAL 24
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-#EXTINF:-1 group-title="MÉXICO", SQCS CANAL 4
-https://video0.rogohosting.com:19360/4982/4982.m3u8
 #EXTINF:-1 group-title="MÉXICO", SUPER CHANNEL 12
 https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 group-title="MÉXICO", TELE SALTILLO
@@ -177,7 +173,7 @@ https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV UG
 https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV UJAT
-https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+https://5f1af61612fb5.streamlock.net/ujat/videoujat/chunklist_w1159212680_tkd293emF0b2tlbmVuZHRpbWU9MTc4OTA1NDMwMSZ3b3d6YXRva2VuaGFzaD10dkRmczQtSlFmdWhDek8yNGd5LW1Cb3lyNS1uWmdIeHhWVWlpQ0xlaE5NPQ==.m3u8
 #EXTINF:-1 group-title="MÉXICO", TVMAS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", TVP CULIACÁN
@@ -225,7 +221,7 @@ https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 group-title="MÉXICO", CANAL 5
 http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/135430.m3u8
 #EXTINF:-1 group-title="MÉXICO", AZTECA CLIC!
-http://200.229.147.210:9999/play/a0ap/index.m3u8
+http://181.66.249.246:8000/play/a0dl/index.m3u8
 #EXTINF:-1 group-title="MÉXICO", IMAGEN TELEVISIÓN
 http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/534774.m3u8
 #EXTINF:-1 group-title="MÉXICO", TLNOVELAS 
@@ -440,7 +436,7 @@ http://38.224.175.2:8000/play/a08c/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TV PUBLICA ARGENTINA
 https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONALES", EL NUEVE
-http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/490460.m3u8
+http://15.204.246.24:8080/elnueveHD/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ARGENTINISIMA
@@ -452,7 +448,7 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 3 ARGENTINA
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CRÓNICA TV
-https://g3.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+http://179.64.36.245:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", SKY NEWS ARABIA
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", SKY NEWS EXTRA 1
@@ -462,9 +458,9 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master_57
 #EXTINF:-1 group-title="INTERNACIONALES", SKY NEWS EXTRA 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ATB LA PAZ
-http://15.204.246.24:8080/ATBHD/index.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(Xiz9kcG6ian5CpquPwHXB814RkoL-NpznKAED7XWARQlCM7sqqtb9j5eY6TCGUXV1O35E_fi7LfO2_RhxKLQoJTHrxkscDnxIKUePHShSo23-BbWqM37DUjKwA-Tye5I)/dm/3/x84eirw/d/live-480.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", BOLIVISION
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+https://d135ohnuotzzyo.cloudfront.net/_token/v1.1788972110.1hzu3lpN13ErevmEnyG5v0mwj0NpajmLO3FfJpFynQg/index_2.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ATV+
 http://199.188.103.176:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", AL JAZEERA
@@ -503,7 +499,7 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AXN
 http://45.166.93.156:9999/play/a0h0/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TELEMUNDO 
-http://45.190.13.8/TelemundoHD/index.m3u8
+http://190.108.91.206:9050/play/a089/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TNT
 http://200.229.147.210:9999/play/a035/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TNT SERIES
@@ -511,7 +507,7 @@ http://45.166.93.156:9999/play/a0i3/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ANIMAL PLANET
 http://179.60.224.196:8000/play/a0el/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY ID
-http://181.78.197.59:8000/play/a08a/index.m3u8
+http://190.108.91.206:9050/play/a04d/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY CHANNEL
 http://181.78.197.59:8000/play/a086/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY H&H
