@@ -539,7 +539,7 @@ http://187.245.231.226:8000/play/a0od/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINEMAX
 http://187.245.231.226:8000/play/a0uf/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", COMEDY CENTRAL
-http://186.33.0.57:8000/play/a04e/index.m3u8
+http://181.209.105.115:2525/play/comedycentral/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", FX
 http://187.245.231.226:8000/play/a0n4/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", GOLDEN
