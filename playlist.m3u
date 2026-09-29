@@ -90,10 +90,16 @@ http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/534771.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 group-title="MÉXICO", AZTECA UNO
 http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/534768.m3u8
+#EXTINF:-1 group-title="MÉXICO", ALCANCE TV
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", ANTENA TV
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", B15 FRESNILLO
 https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", B15 ZACATECAS
 https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", BAMOS TV
+https://video2.getstreamhosting.com:19360/8092/8092.m3u8
 #EXTINF:-1 group-title="MÉXICO", CANAL 5 TV COZUMEL
 https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 #EXTINF:-1 group-title="MÉXICO", CANAL 10 CHIAPAS
@@ -102,6 +108,8 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", CANAL 26 AGUASCALIENTES
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", CANAL 26
+https://5fe2654d6127d.streamlock.net:443/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", CANAL 28
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", CANAL 33 TIJUANA
@@ -116,14 +124,28 @@ https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 group-title="MÉXICO", CREALA TV
 https://stream.crealatv.com/live.m3u8
+#EXTINF:-1 group-title="MÉXICO", CALIFORNIA MEDIOS
+https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", CANAL 15 ILCE SUMMA SABRE
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", CANAL 22 NACIONAL
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", CB TV MICHOACAN
+https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", ECLIPSE TV
 https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
 #EXTINF:-1 group-title="MÉXICO", EXPRESA TV
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", EL SONORENSE
+https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", EXA TV
+http://190.61.90.17:40000/play/a0hk/index.m3u8
 #EXTINF:-1 group-title="MÉXICO", IERTBCS CANAL 8.2 LA PAZ
 https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", IERTBCS CANAL 8 LA PAZ
 https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", ICRTV COLIMA
+https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", JALISCO TV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 group-title="MÉXICO", JUSTICIA TV
@@ -202,6 +224,10 @@ https://tvenvivo.buap.mx/livestream/stream/index.m3u8
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV CUATRO 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1 group-title="MÉXICO", TV CUATRO 4.3
+https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
+#EXTINF:-1 group-title="MÉXICO", TV CUATRO 4.4
+https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV LOBO DURANGO
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV MAR LA PAZ
@@ -226,10 +252,16 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", TVP OBREGÓN
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", TVP MIGRANTE
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", ULTRA TV PUEBLA
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", UMTV
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO", UNISON TV
+https://stream.unison.mx/hls/unisontvatem.m3u8
+#EXTINF:-1 group-title="MÉXICO", UAA TV
+https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", VB MEDIA TV
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 #EXTINF:-1 group-title="MÉXICO", VISION TELEVISIÓN
@@ -291,16 +323,22 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 http://181.119.108.27:7292/play/a06z/index.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL 13
 http://45.186.106.207:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="GUATEMALA", CANAL 13 ESQUIPULAS
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL 27
 https://ch1-c27.duin.dev/hls/stream.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL 30 TV BETHEL
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
+#EXTINF:-1 group-title="GUATEMALA", CANAL 100 CHINIQUE
+https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL ANTIGUA
 https://5ca9af4645e15.streamlock.net:443/antigua/antigua.smil/playlist.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL PENIEL
 https://s.emisoras.tv:8081/penielfamiliar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL TV RADIO MAYA TGBA
 https://s.emisoras.tv:8081/radiomaya/index.m3u8
+#EXTINF:-1 group-title="GUATEMALA", CONECTADOS CON DIOS
+https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 group-title="GUATEMALA", EL ROI- TV
 https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
 #EXTINF:-1 group-title="GUATEMALA", GUATEVISION
@@ -309,8 +347,16 @@ http://45.190.184.79:5800/play/a00v/index.m3u8
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
 #EXTINF:-1 group-title="GUATEMALA", MAXIVISIÓN
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+#EXTINF:-1 group-title="GUATEMALA", MAS TV
+https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8
+#EXTINF:-1 group-title="GUATEMALA", MCN TELEVISION
+https://eu1.servers10.com:8081/8338/index.m3u8
+#EXTINF:-1 group-title="GUATEMALA", MULTIVISION CANAL 3
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 #EXTINF:-1 group-title="GUATEMALA", NIM TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1 group-title="GUATEMALA", NUESTRA IMAGEN TV
+https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
 #EXTINF:-1 group-title="GUATEMALA", PENIEL KIDS
 https://s.emisoras.tv:8081/penielkids/index.m3u8
 #EXTINF:-1 group-title="GUATEMALA", PENIEL MUSICAL
@@ -321,6 +367,8 @@ https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
 https://stream.hispanatv.com/hls/penitudtv_f12148b2db2b.m3u8
 #EXTINF:-1 group-title="GUATEMALA", RHEMA TV
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+#EXTINF:-1 group-title="GUATEMALA", RADIO COATAN CANAL 21
+https://s2.tvdatta.com:3112/hybrid/play.m3u8
 #EXTINF:-1 group-title="GUATEMALA", SIL TV
 https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 #EXTINF:-1 group-title="GUATEMALA", SOL TV
@@ -335,13 +383,23 @@ https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 group-title="GUATEMALA", TV TUN
 https://tvstream.alojawebgt.net:3289/live/tvtunlive.m3u8
+#EXTINF:-1 group-title="GUATEMALA", TELECOSTA
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 group-title="GUATEMALA", VISION TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 group-title="GUATEMALA", WORLD TV GUATEMALA
+https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
 
 # --- SECCIÓN: HONDURAS ---
 
 #EXTINF:-1 group-title="HONDURAS", ALSACIAS TELEVISIÓN
 https://s.emisoras.tv:8081/atv/index.m3u8
+#EXTINF:-1 group-title="HONDURAS", AZA TV
+https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
+#EXTINF:-1 group-title="HONDURAS", AZTECA HONDURAS
+https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
+#EXTINF:-1 group-title="HONDURAS", BUEN DIA TV
+https://servilive.com:3508/stream/play.m3u8
 #EXTINF:-1 group-title="HONDURAS", CAMPUS TV
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", CANAL 5 EL LIDER
@@ -356,6 +414,8 @@ https://media.az-mediaserver.com:19360/7008/7008.m3u8
 https://s.emisoras.tv:8081/cholutecatv/index.m3u8
 #EXTINF:-1 group-title="HONDURAS", CHTV
 https://viewhn.com/chtv/live/playlist.m3u8
+#EXTINF:-1 group-title="HONDURAS", CCI CHANNEL
+https://livestream.mediacci.com/ccitv/index.m3u8
 #EXTINF:-1 group-title="HONDURAS", DIOS TE VE
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
 #EXTINF:-1 group-title="HONDURAS", DIOS TE VE KIDS
@@ -368,8 +428,14 @@ https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", GIRASOL TV
 https://s.emisoras.tv:8081/girasoltv/index.m3u8
+#EXTINF:-1 group-title="HONDURAS", GUAYAPE TV
+https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
 #EXTINF:-1 group-title="HONDURAS", HCH
 https://stream.hch.hn/live/streams/stream1.m3u8
+#EXTINF:-1 group-title="HONDURAS", ICN DIGITAL
+https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
+#EXTINF:-1 group-title="HONDURAS", JBN TV
+https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", KERUSSO TV
 https://s.emisoras.tv:8081/kerussotv/index.m3u8
 #EXTINF:-1 group-title="HONDURAS", LA TOP 102.9 FM
@@ -378,10 +444,14 @@ https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", LENCA TELEVISIÓN CANAL 40
 https://lencatelevision.com/hls/stream.m3u8
+#EXTINF:-1 group-title="HONDURAS", LITORAL ATLANTICO
+https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
 #EXTINF:-1 group-title="HONDURAS", METRO TV
 https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:-1 group-title="HONDURAS", OMEGA TV
 https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
+#EXTINF:-1 group-title="HONDURAS", PURINGLA TV
+https://stmv2.srvif.com/puringla/puringla/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", Q'HUBO TV
 https://amixtv.com:8081/qhubotv/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1 group-title="HONDURAS", RADIO IDEAL 104.7 FM
@@ -394,8 +464,14 @@ https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", RTV
 https://amixtv.com:8081/rtvhn/index.fmp4.m3u8
+#EXTINF:-1 group-title="HONDURAS", RADIO FIESTA DE MILAGROS
+https://tv.webmedialive.com/fiestatv/live/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", SULA TV
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
+#EXTINF:-1 group-title="HONDURAS", STVE TELEBASICA
+https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
+#EXTINF:-1 group-title="HONDURAS", SUYAPA TV
+https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", TELECEIBA
 https://teleceiba.com/stream/tlcb720.m3u8
 #EXTINF:-1 group-title="HONDURAS", TELEDANLI
@@ -416,6 +492,15 @@ https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", TV COPÁN
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
+#EXTINF:-1 group-title="HONDURAS", TELECADENA 7 Y 4
+http://45.167.2.101:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="HONDURAS", TELEMAS
+https://s.emisoras.tv:8081/telemas/index.m3u8
+#EXTINF:-1 group-title="HONDURAS", TV ESTRALLA
+https://s.emisoras.tv:8081/tve/index.m3u8
+#EXTINF:-1 group-title="HONDURAS", UNE TV
+https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
+
 
 # --- SECCIÓN: INTERNACIONALES ---
 
@@ -431,6 +516,8 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 http://200.229.147.210:9999/play/a005/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 2 REPRETEL
+https://velive.lat:443/laura/12345678/458047.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 4 REPRETEL
 https://dlhn7gdemxofz.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 6 REPRETEL 
@@ -451,14 +538,30 @@ http://199.188.103.176:8000/play/a0dc/index.m3u8
 http://199.188.103.176:8000/play/a05r/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CARACOL TV 
 http://38.134.250.110:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", TELECAFE
+http://152.231.29.139:8000/play/a0g9/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", TELEMEDELLIN
+https://velive.lat:443/laura/12345678/21189.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", DW CHANNEL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", E! CHANNEL
 http://38.134.250.110:8000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ECUAVISA
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", TC TELEVISION
+http://177.234.218.66:8084/play/a089/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", TELEAMAZONA
+http://45.224.97.181:9999/Teleamazonas/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", LATINA TV
 http://38.210.3.64:8090/play/a0c0/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", LATINA CLASICOS
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", LATINA NOTICIAS
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream2/chunks.m3u8?ndvc=0&dpssid=r1us2076516556174c43d9f5af79d962e505767c37657d&sid=ba5t1l1xb22843986176abbeb6405eae
+#EXTINF:-1 group-title="INTERNACIONALES", LATINA PODCAST
+https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", MOVISTAR PLUS PERU
+http://190.108.91.206:9050/play/a0bb/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", PASIONES
 http://38.210.3.64:8090/play/a0kb/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", RCN
@@ -521,12 +624,18 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 13 TELESERIES
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CANAL 13 KIDS
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CHILEVISION
 http://190.90.154.112:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", MEGA CHILE
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="INTERNACIONALES", MEGA 2 CHILE
+http://15.204.246.24:8080/Mega2HD/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TVN CHILE
 http://45.162.193.35/TVN/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", T13 CHILE
+https://redirector.dps.live/hls/t13/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TV NOSARA
@@ -535,6 +644,12 @@ https://latamvdo.com:3870/hybrid/play.m3u8
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", NHK WORLD JAPAN
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", TELESUR
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", TELEVEN
+https://televen.streampool.net/10255/dvr/hls/televentrx/spntl=exp=1790787246~id=bqJoO4Viu_s-9jAjxzYnBgk~acl=%2F10255%2Fdvr%2Fhls%2Fteleventrx%2F%2A~data=ip=186.151.100.141,pid=255,sid=WBS,did=N%2FA,id=TLVGUEST~hmac=60ea27fd3430a36d14059ac5a937b69a754f73694f2b3f16fe0e8d0223cb2cbf/playlist_2.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", VENEVISION
+https://dai.google.com/linear/hls/pa/event/xl2VClgXQmKB5abFGlmyZQ/stream/5e6aafcb-108d-4419-8102-753567fc8211:DLS/variant/00af4928e54b4171c983a3dc213fe091/bandwidth/5160000.m3u8
 
 # --- SECCIÓN: TV PREMIUM ---
 
