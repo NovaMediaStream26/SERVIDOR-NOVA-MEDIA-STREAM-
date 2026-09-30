@@ -679,6 +679,8 @@ http://200.115.120.1:8000/play/ca038/index.m3u8
 http://187.245.231.226:8000/play/a0od/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINEMAX
 http://187.245.231.226:8000/play/a0uf/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CINE PREMIUM
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", COMEDY CENTRAL
 http://181.209.105.115:2525/play/comedycentral/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", FX
@@ -689,6 +691,14 @@ http://187.245.231.226:8000/play/a0nh/index.m3u8
 http://45.167.2.138:8000/play/a0sb/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", GOLDEN PREMIER
 http://45.186.106.207:8000/play/a06v/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", PANICO
+http://181.78.8.199:8000/play/a0bt/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CLARO MUSICA
+http://186.33.24.156:8000/play/a0j9/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", TELEHIT MUSICA
+http:\\200.115.120.1:8000\play\ca093\index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", POPCORN CENTRAL
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SONY CHANNEL
 http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SPACE
@@ -755,6 +765,12 @@ http://38.224.175.2:8000/play/a0sq/index.m3u8
 http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CNBC
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist1080_p.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", USA NETWORK
+http://181.209.38.115:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", STAR TVE
+http://209.14.108.65:8000/play/a091/index.m3u8
+
+
 
 # --- SECCIÓN: INFANTILES ---
 
