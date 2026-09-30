@@ -642,7 +642,7 @@ http://45.166.93.156:9999/play/a0h0/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TELEMUNDO 
 http://190.108.91.206:9050/play/a089/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TNT
-http://200.229.147.210:9999/play/a035/index.m3u8
+http://45.134.141.161:2200/ARG/TNT/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TNT SERIES
 http://45.166.93.156:9999/play/a0i3/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ANIMAL PLANET
@@ -690,7 +690,7 @@ http://45.167.2.138:8000/play/a0sb/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", GOLDEN PREMIER
 http://45.186.106.207:8000/play/a06v/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SONY CHANNEL
-http://45.228.234.62:8000/play/a04z/index.m3u8
+http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SPACE
 http://181.78.197.59:8000/play/a09e/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL
