@@ -842,8 +842,6 @@ http://181.209.38.115:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", STAR TVE
 http://209.14.108.65:8000/play/a091/index.m3u8
 
-
-
 # --- SECCIÓN: INFANTILES ---
 
 #EXTINF:-1 group-title="INFANTILES", CARTOON NETWORK
@@ -864,6 +862,16 @@ http://187.245.231.226:8000/play/a0nv/index.m3u8
 http://179.60.224.196:8000/play/a0ef/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", NICK JR
 http://45.167.2.138:8000/play/a0qw/index.m3u8
+#EXTINF:-1 group-title="INFANTILES", ENERGEEK
+https://cl-2.backend.energeek.cl/bkp/egretroweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
+#EXTINF:-1 group-title="INFANTILES", ENERGEEK FAN
+https://cl-2.backend.energeek.cl/bkp/egfanweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
+#EXTINF:-1 group-title="INFANTILES", CLAN
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 group-title="INFANTILES", BITME
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+#EXTINF:-1 group-title="INFANTILES", EL CHAVO TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 # --- SECCIÓN: DEPORTES ---
 
