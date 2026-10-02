@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTM3U
-
 # --- SECCIÓN: AGENDA ---
 #EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN PRACTICA 2 2AM
 http://38.134.250.110:8000/play/a00q/index.m3u8
@@ -871,20 +869,114 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 # --- SECCIÓN: DEPORTES ---
 
-#EXTINF:-1 group-title="DEPORTES", ULTRAS TV
-https://sn4.vtoc.live/vdc10012919/80Idaypwv7aeW3AgGVhstA/2c330792cbb851561886b57bfdf2/1788998031/chunklist.m3u8
+#EXTINF:-1 group-title="DEPORTES", TELEUNO
+https://183.bozztv.com/giatv/giatv-teleuno/teleuno/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", LIGA 1 MAX
 http://190.108.83.69:8000/play/a083/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", SKY SPORTS LALIGA
 http://181.119.177.253:8000/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", SKY SPORTS PREMIER LEAGUE
+http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", LALIGA TV HYPERMOTION
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
+#EXTINF:-1 group-title="DEPORTES", LALIGA TV HYPERMOTION 2
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25953.m3u8
+#EXTINF:-1 group-title="DEPORTES", LALIGA TV HYPERMOTION 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25954.m3u8
+#EXTINF:-1 group-title="DEPORTES", DAZN LALIGA
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25125.m3u8
+#EXTINF:-1 group-title="DEPORTES", DAZN LALIGA 2
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57476.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LALIGA
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5758.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LALIGA 2
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5651.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LALIGA 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5652.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LALIGA 4
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57248.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES 2
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/58115.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/58116.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES 4
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5665.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES 5
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5666.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES 6
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5667.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES 7
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5668.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES 8
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5669.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES 9
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5670.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES 10
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5685.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES 11
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5686.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES 12
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5687.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES 13
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/29360.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR DEPORTES
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5643.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR DEPORTES 2
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5639.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR DEPORTES 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5640.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR DEPORTES 4
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5641.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR DEPORTES 5
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5681.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR DEPORTES 6
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5682.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR DEPORTES 7
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5683.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR VAMOS
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5630.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR VAMOS 2
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/73273.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR ELLAS VAMOS
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/29333.m3u8
+#EXTINF:-1 group-title="DEPORTES", MOVISTAR GOLF
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5649.m3u8
+#EXTINF:-1 group-title="DEPORTES", EUROSPORT 1
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5607.m3u8
+#EXTINF:-1 group-title="DEPORTES", EUROSPORT 2
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5608.m3u8
+#EXTINF:-1 group-title="DEPORTES", GOL
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5617.m3u8
+#EXTINF:-1 group-title="DEPORTES", ONE TORO
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/55943.m3u8
 #EXTINF:-1 group-title="DEPORTES", REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="DEPORTES", BARCA TV
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", TOP BARCA
+https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
 #EXTINF:-1 group-title="DEPORTES", BEIN SPORTS XTRA Ñ
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlistR1080p.m3u8
 #EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 
 https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", AZTECA DEPORTES NETWORK 
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", DAZN COMBAT
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
+#EXTINF:-1 group-title="DEPORTES", DAZN F1
+https://live91.videxhd.sbs/latamplay/daznf1/index.m3u8?api=1234
+#EXTINF:-1 group-title="DEPORTES", DAZN MOTO GP
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/70905.m3u8
+#EXTINF:-1 group-title="DEPORTES", DAZN 1
+https://live91.videxhd.sbs/tvtvhd/dazn1/index.m3u8?api=1234
+#EXTINF:-1 group-title="DEPORTES", DAZN 2
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5590.m3u8
+#EXTINF:-1 group-title="DEPORTES", DAZN 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5591.m3u8
+#EXTINF:-1 group-title="DEPORTES", DAZN 4
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5592.m3u8
 #EXTINF:-1 group-title="DEPORTES", DSPORTS
 http://179.43.96.253:8000/play/a24w/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", DSPORTS +
@@ -919,10 +1011,26 @@ https://v4.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=v6bs6hsuJoASJo
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", FUTV
 http://45.228.234.62:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TD+
+https://velive.lat/live/Nexp328737/29971731/108936.m3u8
+#EXTINF:-1 group-title="DEPORTES", TD+ 2
+https://velive.lat/live/Nexp328737/29971731/103794.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX COSTA RICA
 http://186.33.61.182:8000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX GUATEMALA
+http://186.33.61.182:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX EL SALVADOR
+http://190.61.101.11:7050/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX + COSTA RICA
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/14879.m3u8
+#EXTINF:-1 group-title="DEPORTES", TIGO SPORTS PARAGUAY (SOLO EVENTOS)
+https://live881.videxhd.sbs/latamplay/tigo1/index.m3u8?api=1234
 #EXTINF:-1 group-title="DEPORTES", CLARO SPORTS
 http://45.228.234.62:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", NICASPORTS
+https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TVMAX PANAMA
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-gdai/65d4c7bcbe741b6c4131bd70/linear/hls/pa/event/yB_eY9MOQUepHoz0yC5C0Q/stream/38618604-e277-488d-b26a-2f7470b39b25:CHS/variant/566069589799225915b10b4004d69862/bandwidth/915200.m3u8?aid=6495bd4ecd55fe08b4765b53&dnt=true&dual_render=1&access_token=NOmqdWhObIYPF1Gk4XMTxnn4kx2YZV2VCIdzrhxHJzEC86kM8AyrEL7TEbvQAVBvjb0Nr5nYXoc&uid=Kp05kCJWqNzQy0j59iMhdX4IlzfguEkt&sid=gy1uJALmXKtgaCGZCIt51o9ibuQSvn6M&pid=rRel7HqogHupeDBx05I2BUvTjF9sfHnt&ref=tvnpass.com&ext_pb=0&adInsertionGoogleStreamId=38618604-e277-488d-b26a-2f7470b39b25%3ACHS&CMCD=cid%3D%2265d4c7bcbe741b6c4131bd70%22%2Cmtp%3D31500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22rRel7HqogHupeDBx05I2BUvTjF9sfHnt%22&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1791041235225&ot=7LlY6eyyit2sHVCHEQhTaw&proto=https&pz=us
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 MEXICO
 http://45.167.2.138:8000/play/a0ql/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 MEXICO
@@ -1005,6 +1113,10 @@ http://186.33.61.182:8000/play/a052/index.m3u8
 http://186.33.61.182:8000/play/a053/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TELEDEPORTE
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
+#EXTINF:-1 group-title="DEPORTES", BAND SPORTS
+http://45.162.64.114/BAND_SPORTS/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", DEPORTES TVC HONDURAS
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 
 # --- SECCIÓN: VIP PREMIUM ---
 
