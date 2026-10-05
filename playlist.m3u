@@ -1024,21 +1024,15 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 USA (VPN)
 https://v15.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=0TdRAmSEN98N8jbgmDkVww&expires=1778622456&user_id=ODQuMjAuMjcuMTY3
 #EXTINF:-1 group-title="DEPORTES", GOLF CHANNEL
-https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", MLB NETWORK (VPN)
-https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
+http://45.228.234.62:8000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", MOTORTREND
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", NFL NETWORK (VPN)
-https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
-#EXTINF:-1 group-title="DEPORTES", NFL RED ZONE (VPN)
-https://v4.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=daNjLSPwuNrHw-lD-ZCT8g&expires=1777276192&user_id=MTg2LjE1MS4xMDAuMTI3
 #EXTINF:-1 group-title="DEPORTES", NHL NETWORK
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="DEPORTES", TENNIS CHANNEL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", TUDN USA (VPN)
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 group-title="DEPORTES", TUDN USA
+http://179.60.224.196:8000/play/a0f4/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", WWE NETWORK
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", YES NETWORK
@@ -1062,7 +1056,7 @@ http://186.33.61.182:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 MEXICO
 http://186.33.61.182:8000/play/a052/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 4 MEXICO
-http://186.33.61.182:8000/play/a053/index.m3u8
+http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TELEDEPORTE
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 group-title="DEPORTES", BAND SPORTS
