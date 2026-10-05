@@ -1021,8 +1021,6 @@ http:\\fortv.cc:8080\live\shidarn@yahoo.com\zPNLXyt8sg\10454.m3u8
 http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5605.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX DEPORTES
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 USA (VPN)
-https://v15.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=0TdRAmSEN98N8jbgmDkVww&expires=1778622456&user_id=ODQuMjAuMjcuMTY3
 #EXTINF:-1 group-title="DEPORTES", GOLF CHANNEL
 http://45.228.234.62:8000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", MOTORTREND
@@ -1037,14 +1035,8 @@ http://179.60.224.196:8000/play/a0f4/index.m3u8
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", YES NETWORK
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", UFC CHANNEL
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", AYM SPORTS
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
-#EXTINF:-1 group-title="DEPORTES", NBC BAY AREA (VPN)
-https://e1.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8?token=UW6JBUv-R1qIKONNg24zyA&expires=1777277185&user_id=MTg2LjE1MS4xMDAuMTI3
-#EXTINF:-1 group-title="DEPORTES", WORLD FISHING NETWORK
-https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=mDHh59pDPYW
 #EXTINF:-1 group-title="DEPORTES", ITV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="DEPORTES", TVC DEPORTES MEXICO
