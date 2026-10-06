@@ -44,7 +44,7 @@ https://live881.videxhd.sbs/latamplay/tigo1/index.m3u8?api=1234
 #EXTINF:-1 group-title="AGENDA", ARGENTINA VS BENIN 5PM
 http://181.209.38.115:8000/play/a00k/index.m3u8
 #EXTINF:-1 group-title="AGENDA", ARGENTINA VS BENIN OPCION 2
-http://200.115.120.1:8000/play/ca016/index.m3u8
+http://186.33.0.57:8000/play/a03h/index.m3u8
 #EXTINF:-1 group-title="AGENDA", ARGENTINA VS BENIN OPCION 3
 http://179.43.96.253:8000/play/a24w/index.m3u8
 #EXTINF:-1 group-title="AGENDA", ARGENTINA VS BENIN OPCION 4
@@ -615,7 +615,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TLC
 http://38.134.250.110:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TELEFE
-http://200.115.120.1:8000/play/ca016/index.m3u8
+http://186.33.0.57:8000/play/a03h/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 #EXTINF:-1 group-title="INTERNACIONALES", UNIVISION
