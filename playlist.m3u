@@ -651,7 +651,7 @@ http://45.163.139.42:8000/play/a02k/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 8 MULTIMEDIOS COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 11 REPRETEL 
-https://d2h2wh04y3aqtb.cloudfront.net/hls/ez84cni2g3hk/7_5/index.m3u8
+http://186.33.0.57:8000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ATV
 http://190.93.224.42/ATV/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV PERÚ
