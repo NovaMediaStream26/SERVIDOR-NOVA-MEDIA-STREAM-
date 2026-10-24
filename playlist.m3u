@@ -733,7 +733,7 @@ https://velive.lat:443/laura/12345678/458047.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 4 REPRETEL
 https://d2pdmpypqinyd5.cloudfront.net/4_5/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 6 REPRETEL 
-https://d2h2wh04y3aqtb.cloudfront.net/hls/w0wu3g4t42xb/3_4/index.m3u8
+http://186.33.0.57:8000/play/a02o/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TELETICA
 http://45.163.139.42:8000/play/a02k/index.m3u8 
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 8 MULTIMEDIOS COSTA RICA
