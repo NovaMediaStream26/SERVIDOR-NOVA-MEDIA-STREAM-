@@ -783,7 +783,7 @@ http://187.245.231.226:8000/play/a0u2/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", DISNEY JUNIOR
 http://187.245.231.226:8000/play/a0lh/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", NICKELODEON
-http://181.209.38.115:8000/play/a02e/index.m3u8
+http://186.4.100.15:8894/output/NICK/playlist.m3u8
 #EXTINF:-1 group-title="INFANTILES", TOONCAST
 http://187.245.231.226:8000/play/a0nv/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", BABY TV
@@ -793,7 +793,7 @@ http://45.134.141.161:2200/ARG/Nick_Jr/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", ENERGEEK
 https://cl-2.backend.energeek.cl/bkp/egretroweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 group-title="INFANTILES", ENERGEEK FAN
-https://cl-2.backend.energeek.cl/bkp/egfanweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
+https://cl-2.backend.energeek.cl/bkp/egfanweb/video.m3u8?token=NeoTVCL
 #EXTINF:-1 group-title="INFANTILES", CLAN
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 group-title="INFANTILES", BITME
