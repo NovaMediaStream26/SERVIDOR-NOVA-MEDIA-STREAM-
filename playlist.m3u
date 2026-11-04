@@ -146,6 +146,8 @@ http://zonacero.lat:8080/live/laura/12345678/487419.m3u8
 
 # --- SECCIÓN: MÉXICO ---
 
+#EXTINF:-1 group-title="MÉXICO", C4 EN ALERTA
+https://stream.ads.ottera.tv/cl/261104dblqoicqo5rc73ei24g0/1280x720_3071200_0_f.m3u8
 #EXTINF:-1 group-title="MÉXICO", 8NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", ADN40
