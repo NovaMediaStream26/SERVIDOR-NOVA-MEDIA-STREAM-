@@ -354,8 +354,6 @@ https://s.emisoras.tv:8081/atv/index.m3u8
 https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", AZTECA HONDURAS
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
-#EXTINF:-1 group-title="HONDURAS", BUEN DIA TV
-https://servilive.com:3508/stream/play.m3u8
 #EXTINF:-1 group-title="HONDURAS", CAMPUS TV
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", CANAL 5 EL LIDER
@@ -384,8 +382,6 @@ https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", GIRASOL TV
 https://s.emisoras.tv:8081/girasoltv/index.m3u8
-#EXTINF:-1 group-title="HONDURAS", GUAYAPE TV
-https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
 #EXTINF:-1 group-title="HONDURAS", HCH
 https://stream.hch.hn/live/streams/stream1.m3u8
 #EXTINF:-1 group-title="HONDURAS", ICN DIGITAL
@@ -400,12 +396,8 @@ https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", LENCA TELEVISIÓN CANAL 40
 https://lencatelevision.com/hls/stream.m3u8
-#EXTINF:-1 group-title="HONDURAS", LITORAL ATLANTICO
-https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
 #EXTINF:-1 group-title="HONDURAS", METRO TV
 https://s.emisoras.tv:8081/metrotv/index.m3u8
-#EXTINF:-1 group-title="HONDURAS", OMEGA TV
-https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", PURINGLA TV
 https://stmv2.srvif.com/puringla/puringla/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", Q'HUBO TV
@@ -448,8 +440,6 @@ https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", TV COPÁN
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
-#EXTINF:-1 group-title="HONDURAS", TELECADENA 7 Y 4
-http://45.167.2.101:8000/play/a07n/index.m3u8
 #EXTINF:-1 group-title="HONDURAS", TELEMAS
 https://s.emisoras.tv:8081/telemas/index.m3u8
 #EXTINF:-1 group-title="HONDURAS", TV ESTRALLA
