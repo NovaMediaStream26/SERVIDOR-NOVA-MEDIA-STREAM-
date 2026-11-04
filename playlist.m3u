@@ -970,11 +970,11 @@ http://velive.lat:8080/b3NCTGtRc0ZvbHdmUGFaMXcrTlUzUUJCeFdRS2VJK04xYitrbmU0aXBqc
 #EXTINF:-1 group-title="DEPORTES", NBA TV 
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT SPORTS PREMIUM
-http://181.209.38.115:8000/play/a00j/index.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1 group-title="DEPORTES", TYC SPORTS 
-http://181.209.38.115:8000/play/a00k/index.m3u8
+http:\\186.148.196.67:8900\play\a0ar
 #EXTINF:-1 group-title="DEPORTES", WIN SPORTS
-http://138.94.3.106:8000/play/a04n/index.m3u8
+http:\\152.231.29.139:8000\play\a0g4\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", WIN SPORTS +
 http://152.231.29.139:8000/play/a0je/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN COLOMBIA
@@ -984,7 +984,7 @@ http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", CBS SPORTS NETWORK
 http:\\fortv.cc:8080\live\shidarn@yahoo.com\zPNLXyt8sg\10454.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5605.m3u8
+http://38.188.186.47:4000/play/Ji198/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX DEPORTES
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", GOLF CHANNEL
@@ -1008,13 +1008,13 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="DEPORTES", TVC DEPORTES MEXICO
 http:\\209.87.175.160:5001\play\a0kl\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 1 MEXICO
-http://186.33.61.182:8000/play/a050/index.m3u8
+http://45.228.234.62:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2 MEXICO
-http://186.33.61.182:8000/play/a051/index.m3u8
+http://45.228.234.62:8000/play/a059/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 MEXICO
-http://186.33.61.182:8000/play/a052/index.m3u8
+http://45.228.234.62:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 4 MEXICO
-http://181.78.197.59:8000/play/a07n/index.m3u8
+http://45.228.234.62:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TELEDEPORTE
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 group-title="DEPORTES", BAND SPORTS
