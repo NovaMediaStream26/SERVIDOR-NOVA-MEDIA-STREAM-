@@ -636,6 +636,8 @@ http://15.204.246.24:8080/elnueveHD/index.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ARGENTINISIMA
 https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", TN
+http:\\158.172.155.130:8000\play\a0dp\index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CIUDAD MAGAZINE
@@ -656,6 +658,8 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 http://190.181.61.93:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ATV+
 http://190.93.224.42/ATV-PLUS/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CATAMARCA TV
+https:\\stream.arcast.com.ar\canal7catamarca\ngrp:canal7catamarca_all\playlist.m3u8?D
 #EXTINF:-1 group-title="INTERNACIONALES", AL JAZEERA
 https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV ARGENTINA
@@ -686,6 +690,10 @@ http://138.121.15.230:9002/TVN/index.m3u8
 https://redirector.dps.live/hls/t13/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", ATACAMA NOTICIAS
+https:\\v2.tustreaming.cl\atacamanoticias\index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", PURANOTICIA TV
+https:\\pnt.janusmedia.tv\hls\pnt.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", RAI 1 ITALIA
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", NHK WORLD JAPAN
@@ -696,6 +704,18 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 http://38.134.250.110:8000/play/a02i/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", VENEVISION
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", CITRICO TV
+https:\\edge.essastream.com\citricotv\playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", PRENSA LATINA TV
+https:\\eu1.servers10.com:8081\8192\index.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", RADIO ANCON
+https:\\www.streaming507.net:19360\anconvideo\anconvideo.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", RCV TV
+https:\\59d39900ebfb8.streamlock.net\rcv\rcv\playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", RDN
+https:\\edge.essastream.com\rdntv\tracks-v1a1\mono.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES", NTN 24
+https:\\stream1.bitred.cl\ntn24\index.m3u8
 
 # --- SECCIÓN: TV PREMIUM ---
 
@@ -739,6 +759,42 @@ http://187.245.231.226:8000/play/a0lw/index.m3u8
 http://187.245.231.226:8000/play/a0od/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINEMAX
 http://187.245.231.226:8000/play/a0uf/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", RUNTIME CINE HORROR
+https://stream.ads.ottera.tv/cl/261104dblr1c1kc5ac73dlj5gg/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", RUNTIME CINE ESPANTO
+https://stream.ads.ottera.tv/cl/261104dblr2hfmf7gc739msnt0/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", RUNTIME SANGRE FRIA
+https://stream.ads.ottera.tv/cl/261104dblr3h0o7b5c7392m0ng/1920x1080_4787200_4_f.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", NITRO
+https://azt-dep.otteravision.com/azt/dep/dep_720p_high.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", RUNTIME FAMILIA
+https://stream.ads.ottera.tv/cl/261104dblr4isvtntc738t34hg/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", AUTENTIC TRAVEL
+https:\\cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com\v1\master\44f73ba4d03e9607dcd9bebdcb8494d86964f1d8\RlaxxTV-eu_AutenticTravel\playlist.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", BEACH TV FLORIDA Y ALABAMA
+http:\\media4.tripsmarter.com:1935\LiveTV\DTVHD\playlist.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", BEACH TV KEY WEST Y FLORIDA KEY
+https:\\5ed325193d4e1.streamlock.net:444\LiveTV\KTVHD\playlist.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", BEACH TV MYRTLE BEACH Y THE GRAND STRAND
+http:\\media4.tripsmarter.com:1935\LiveTV\MTVHD\playlist.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", BEACH TV PANAMA CITY
+http:\\media4.tripsmarter.com:1935\LiveTV\BTVHD\playlist.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ARUBA TV
+https:\\cdn01.setar.aw\Canal49\canal49\playlist.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CHILE CHANNEL
+https:\\v2.tustreaming.cl\chilechannel\index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", CHINA TRAVEL
+https:\\fastlive.cctvplus.com\out\v1\ca6f9297b7314a63959435028af287fc\index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", COSTA RICA CHANNEL
+https:\\video0.rogohosting.com:19360\8006\8006.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", DISCOVER PAKISTAN
+https:\\livecdn.live247stream.com\discoverpakistan\web\playlist.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", INTRAVEL
+https:\\amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv\playlist.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", PALM BEACH TV
+https:\\live.feed.thepalmbeaches.tv\index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", PEER TV ALTO ADIGE
+https:\\iptv.peer.biz\live\peertv-it.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINE PREMIUM
 http://181.78.12.119:16123/play/ch49/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", COMEDY CENTRAL
