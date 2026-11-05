@@ -888,6 +888,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 
 #EXTINF:-1 group-title="INFANTILES", CARTOON NETWORK
 http://187.245.231.226:8000/play/a0mp/index.m3u8
+#EXTINF:-1 group-title="INFANTILES", BOOMERANG USA
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", CARTOONITO
 http://187.245.231.226:8000/play/a0lg/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", DISCOVERY KIDS
@@ -902,6 +904,8 @@ http://186.4.100.15:8894/output/NICK/playlist.m3u8
 http://187.245.231.226:8000/play/a0nv/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", BABY TV
 http://179.60.224.196:8000/play/a0ef/index.m3u8
+#EXTINF:-1 group-title="INFANTILES", BABY FIRST
+http://186.33.0.57:8000/play/a02s/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", NICK JR
 http://45.134.141.161:2200/ARG/Nick_Jr/index.m3u8
 #EXTINF:-1 group-title="INFANTILES", ENERGEEK
