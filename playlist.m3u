@@ -883,6 +883,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://183.bozztv.com/giatv/giatv-teleuno/teleuno/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", LIGA 1 MAX
 http://190.108.83.69:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", CAZE TV
+http:\\138.204.86.4:8080\CAZE_TV\playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", CRICKET GOLD
+https:\\streams2.sofast.tv\ptnr-yupptv\title-cricketgold\v1\master\611d79b11b77e2f571934fd80ca1413453772ac7\b2048bb8-1686-4432-aa50-647245383e0c\manifest.m3u8
 #EXTINF:-1 group-title="DEPORTES", SKY SPORTS LALIGA
 http://181.119.177.253:8000/play/a0dz/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", SKY SPORTS PREMIER LEAGUE
@@ -991,6 +995,8 @@ http://179.43.96.253:8000/play/a24w/index.m3u8
 http:\\38.190.100.202:8000\play\a09q\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", DSPORTS 2
 http://38.190.100.202:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", BELLATOR MMA
+https:\\jmp2.uk\plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 1
 http://38.134.250.110:8000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2
@@ -1046,7 +1052,9 @@ http://velive.lat:8080/b3NCTGtRc0ZvbHdmUGFaMXcrTlUzUUJCeFdRS2VJK04xYitrbmU0aXBqc
 #EXTINF:-1 group-title="DEPORTES", NBA TV 
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT SPORTS PREMIUM
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.
+#EXTINF:-1 group-title="DEPORTES", TNT SPORTS PREMIUM CHILE
+http://186.148.196.250:81/play/a0of/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TYC SPORTS 
 http:\\186.148.196.67:8900\play\a0ar
 #EXTINF:-1 group-title="DEPORTES", WIN SPORTS
@@ -1097,6 +1105,21 @@ https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 http://45.162.64.114/BAND_SPORTS/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", DEPORTES TVC HONDURAS
 https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", ACI SPORTS
+https:\\webstream.multistream.it\memfs\e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="DEPORTES", ATG LIVE
+https:\\kanal75xto-llhls.akamaized.net\live\Data\atg-kanal-15-02a-rr\HLS-Legacy-HL\atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="DEPORTES", BAHRAIN SPORTS 1 
+https:\\5c7b683162943.streamlock.net\live\ngrp:sportsone_all\playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", BAHRAIN SPORTS 2
+https:\\5c7b683162943.streamlock.net\live\ngrp:bahrainsportstwo_all\playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", CDN DEPORTES
+https:\\hls.tvabierta.net\hls\036.m3u8
+#EXTINF:-1 group-title="DEPORTES", CT SPORT
+http:\\88.212.15.50\live\test_ctsport_25p\playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", DD SPORTS
+https:\\d3qs3d2rkhfqrt.cloudfront.net\out\v1\b17adfe543354fdd8d189b110617cddd\index.m3u8
+
 
 # --- SECCIÓN: VIP PREMIUM ---
 
