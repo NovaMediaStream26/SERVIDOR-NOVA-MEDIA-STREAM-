@@ -523,9 +523,9 @@ http://38.134.250.110:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", RT EN ESPAÑOL 
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TLC
-http://38.134.250.110:8000/play/a00n/index.m3u8
+http:\\186.33.0.57:8000\play\a03z\index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TELEFE
-http://177.53.153.207:8000/play/a00o/index.m3u8
+http:\\181.78.71.4:9003\play\a0ab\index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", A24
 http:\\138.59.227.20:8000\play\a05u\index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", UNIVISION
@@ -541,7 +541,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ARGENTINISIMA
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TN
-http:\\158.172.155.130:8000\play\a0dp\index.m3u8
+http:\\181.209.38.115:8000\play\a032\index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CIUDAD MAGAZINE
@@ -664,15 +664,15 @@ http://187.245.231.226:8000/play/a0od/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINEMAX
 http://187.245.231.226:8000/play/a0uf/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", RUNTIME CINE HORROR
-https://stream.ads.ottera.tv/cl/261104dblr1c1kc5ac73dlj5gg/1280x720_3071200_0_f.m3u8
+https://stream.ads.ottera.tv/cl/261123dc28u5kqohac73adtntg/1280x720_3071200_0_f.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", RUNTIME CINE ESPANTO
-https://stream.ads.ottera.tv/cl/261104dblr2hfmf7gc739msnt0/1280x720_3071200_0_f.m3u8
+https://stream.ads.ottera.tv/cl/261123dc29033sv41s73d6t8e0/1280x720_3071200_0_f.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", RUNTIME SANGRE FRIA
-https://stream.ads.ottera.tv/cl/261104dblr3h0o7b5c7392m0ng/1920x1080_4787200_4_f.m3u8
+https://stream.ads.ottera.tv/cl/261123dc2910lmp3nc73cvucp0/1920x1080_4787200_4_f.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", NITRO
 https://azt-dep.otteravision.com/azt/dep/dep_720p_high.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", RUNTIME FAMILIA
-https://stream.ads.ottera.tv/cl/261104dblr4isvtntc738t34hg/1280x720_3071200_0_f.m3u8
+https://stream.ads.ottera.tv/cl/261123dc292ce6o0cc738a9ghg/1280x720_3071200_0_f.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AUTENTIC TRAVEL
 https:\\cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com\v1\master\44f73ba4d03e9607dcd9bebdcb8494d86964f1d8\RlaxxTV-eu_AutenticTravel\playlist.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", BEACH TV FLORIDA Y ALABAMA
@@ -702,7 +702,7 @@ https:\\iptv.peer.biz\live\peertv-it.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINE PREMIUM
 http://181.78.12.119:16123/play/ch49/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", COMEDY CENTRAL
-http:\\181.209.87.154:8000\play\a072\index.m3u8
+http:\\186.33.0.57:8000\play\a04l\index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", FX
 http://187.245.231.226:8000/play/a0n4/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", GOLDEN
@@ -914,7 +914,7 @@ https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m
 #EXTINF:-1 group-title="DEPORTES", TOP BARCA
 https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
 #EXTINF:-1 group-title="DEPORTES", BEIN SPORTS XTRA Ñ
-https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlistR1080p.m3u8
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 group-title="DEPORTES", AZTECA DEPORTES NETWORK 
 http://190.121.140.222:8081/AZTECA-DEPORTES/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", DAZN COMBAT
