@@ -51,7 +51,7 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 # --- SECCIÓN: MÉXICO ---
 
 #EXTINF:-1 group-title="MÉXICO", C4 EN ALERTA
-https://stream.ads.ottera.tv/cl/261104dblqoicqo5rc73ei24g0/1280x720_3071200_0_f.m3u8
+https://stream.ads.ottera.tv/cl/261123dc266ea5mkas73c3q550/640x360_1126400_3_f.m3u8
 #EXTINF:-1 group-title="MÉXICO", 8NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", ADN40
@@ -101,7 +101,7 @@ https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
 #EXTINF:-1 group-title="MÉXICO", EXPRESA TV
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", EXA TV
-http://190.61.90.17:40000/play/a0hk/index.m3u8
+http:\\186.33.0.57:8000\play\a042\index.m3u8
 #EXTINF:-1 group-title="MÉXICO", IERTBCS CANAL 8.2 LA PAZ
 https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", IERTBCS CANAL 8 LA PAZ
@@ -157,7 +157,7 @@ https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 group-title="MÉXICO", TLAXCALA TELEVISIÓN
-https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
+https://vid26.mega00.com/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
 #EXTINF:-1 group-title="MÉXICO", TRC TELEVISIÓN
 https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", TURISTIK TV
@@ -167,11 +167,11 @@ https://tvenvivo.buap.mx/livestream/stream/index.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV CUATRO 4.1
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV CUATRO 4.2
-https://5ca3e84a76d30.streamlock.net/tv42gto/videotv42gto/chunklist_w1976459991_tkd293emF0b2tlbmVuZHRpbWU9MTc5MzgxMDI2NiZ3b3d6YXRva2VuaGFzaD0wZVNMZ1pIZXk4V3hSWWo1ZlF5SUNZS1dHX1ZOWi1mTzlMYkRKNF9qcFlNPQ==.m3u8
+https://5ca3e84a76d30.streamlock.net/tv42gto/videotv42gto/chunklist_w1985239743_tkd293emF0b2tlbmVuZHRpbWU9MTc5NTUzODIxMyZ3b3d6YXRva2VuaGFzaD1jc05BOWt0M05yems0UjI0MTkxaktNYWo2dWhoQXF2Z2lBRndZYjlndDBVPQ==.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV CUATRO 4.3
-https://5ca3e84a76d30.streamlock.net/tv43gto/smil:tv43gto.smil/chunklist_w1583070650_b1628000_sleng_tkd293emF0b2tlbmVuZHRpbWU9MTc5MzgxMDMyMiZ3b3d6YXRva2VuaGFzaD1jSHBzdlVIZzc0ZHkyeWlfczVuOXFwSE5ITDBZa2w5aXYwQzZsTlFpdm00PQ==.m3u8
+https://5ca3e84a76d30.streamlock.net/tv43gto/smil:tv43gto.smil/chunklist_w756553900_b1628000_sleng_tkd293emF0b2tlbmVuZHRpbWU9MTc5NTUzODkwOSZ3b3d6YXRva2VuaGFzaD1CalEzdkc5MjRRRGRJV24yR0xNY3VjVXdrSFRUbFBibzRrdWlEX2VfTjhZPQ==.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV CUATRO 4.4
-https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/chunklist_w1709860384_b928000_sleng_tkd293emF0b2tlbmVuZHRpbWU9MTc5MzgxMDM2NSZ3b3d6YXRva2VuaGFzaD1FTWROTDRoMjRCM0hIM1E3QkoxaUJ6UUR0aGRWblk5cXhDdVNKZjVfMDZNPQ==.m3u8
+https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/chunklist_w1478597965_b928000_sleng_tkd293emF0b2tlbmVuZHRpbWU9MTc5NTUzOTA2MyZ3b3d6YXRva2VuaGFzaD1KVlVPOV9RRFRCRWxpd1Y2SHBqNGlFT0JEOE5FWlR4MGF1eFhXdDcyT0ZnPQ==.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV LOBO DURANGO
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO", TV MAR LA PAZ
@@ -479,17 +479,17 @@ http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5555.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", EL TRECE
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 2 REPRETEL
-https://d1z2wbg3v3ad8l.cloudfront.net/8_11/index.m3u8
+https://d1z2wbg3v3ad8l.cloudfront.net/0_3/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 4 REPRETEL
-http://186.33.0.57:8000/play/a03p/index.m3u8
+https://d2pdmpypqinyd5.cloudfront.net/0_3/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 6 REPRETEL 
-http://186.33.0.57:8000/play/a02o/index.m3u8
+https://dtwn0mjllww8x.cloudfront.net/0_3/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", TELETICA
 http://186.33.0.57:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 8 MULTIMEDIOS COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", CANAL 11 REPRETEL 
-http://186.33.0.57:8000/play/a02p/index.m3u8
+https://d1xi959ygvr37r.cloudfront.net/0_3/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", ATV
 http://190.93.224.42/ATV/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES", AMÉRICA TV PERÚ
