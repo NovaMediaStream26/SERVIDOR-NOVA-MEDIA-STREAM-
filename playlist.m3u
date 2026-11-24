@@ -266,7 +266,7 @@ https://ch1-c27.duin.dev/hls/stream.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL 30 TV BETHEL
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL 100 CHINIQUE
-https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL ANTIGUA
 https://5ca9af4645e15.streamlock.net:443/antigua/antigua.smil/playlist.m3u8
 #EXTINF:-1 group-title="GUATEMALA", CANAL PENIEL
@@ -300,7 +300,7 @@ https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 #EXTINF:-1 group-title="GUATEMALA", RADIO COATAN CANAL 21
 https://s2.tvdatta.com:3112/hybrid/play.m3u8
 #EXTINF:-1 group-title="GUATEMALA", SIL TV
-https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 #EXTINF:-1 group-title="GUATEMALA", SOL TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 group-title="GUATEMALA", TN23
@@ -318,7 +318,7 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 group-title="GUATEMALA", VISION TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 group-title="GUATEMALA", WORLD TV GUATEMALA
-https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
 
 # --- SECCIÓN: HONDURAS ---
 
@@ -357,7 +357,7 @@ https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", GIRASOL TV
 https://s.emisoras.tv:8081/girasoltv/index.m3u8
 #EXTINF:-1 group-title="HONDURAS", HCH
-https://stream.hch.hn/live/streams/stream1.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(QLSxi7ilDCum3PcjYKrZjaKn_pIqQ8FqNON0DBXC8h-R_XCTZNVCj1OGm5mER2lTKPLGlFjN1bje7YEpDjudF8PkvfASsRyYDzGXgYIfnARpHaHsNsNHVEjJ4j6_U_dF)/cloud/3/x81za5c/s/live-380.m3u8
 #EXTINF:-1 group-title="HONDURAS", ICN DIGITAL
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
 #EXTINF:-1 group-title="HONDURAS", JBN TV
@@ -375,7 +375,7 @@ https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:-1 group-title="HONDURAS", PURINGLA TV
 https://stmv2.srvif.com/puringla/puringla/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", Q'HUBO TV
-https://amixtv.com:8081/qhubotv/tracks-a1/index.fmp4.m3u8
+https://cdn.amixtv.com/qhubotv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="HONDURAS", RADIO IDEAL 104.7 FM
 https://www.idealfm104-7.com/hls/0/stream.m3u8
 #EXTINF:-1 group-title="HONDURAS", RADIO IMAGEN 105.1 FM
@@ -389,7 +389,7 @@ https://amixtv.com:8081/rtvhn/index.fmp4.m3u8
 #EXTINF:-1 group-title="HONDURAS", RADIO FIESTA DE MILAGROS
 https://tv.webmedialive.com/fiestatv/live/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", SULA TV
-https://tv.webmedialive.com/sulatv/live/playlist.m3u8
+https://restreamer.multicable.hn/memfs/8a0f3d8a-0475-4169-89f2-f8facf11b723.m3u8
 #EXTINF:-1 group-title="HONDURAS", STVE TELEBASICA
 https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 group-title="HONDURAS", SUYAPA TV
@@ -454,7 +454,7 @@ https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 #EXTINF:-1 group-title="EL SALVADOR", TVCa TELEVISION CATOLICA ARQUIDIOSESANA
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 group-title="EL SALVADOR", TVO CANAL 23
-http://45.167.2.101:8000/play/a0qo/index.m3u8
+http://168.196.127.137:6001/play/a080/index.m3u8
 #EXTINF:-1 group-title="EL SALVADOR", CANAL TRV
 https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 #EXTINF:-1 group-title="EL SALVADOR", SOLTV
@@ -817,7 +817,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 group-title="INFANTILES", BITME
 https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 #EXTINF:-1 group-title="INFANTILES", EL CHAVO TV
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 # --- SECCIÓN: DEPORTES ---
 
@@ -988,7 +988,7 @@ http:\\200.115.120.1:8000\play\ca041\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 MEXICO
 http://200.115.120.1:8000/play/ca126/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3 MEXICO
-http://45.167.2.101:8000/play/a0rw/index.m3u8
+http:\\45.185.163.75:8000\play\a0ho\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS PREMIUM
 http://velive.lat:8080/b3NCTGtRc0ZvbHdmUGFaMXcrTlUzUUJCeFdRS2VJK04xYitrbmU0aXBqcFJPai90S2tNQW41NzIyZ1BsQllUdA
 #EXTINF:-1 group-title="DEPORTES", NBA TV 
@@ -996,11 +996,11 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT SPORTS PREMIUM
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT SPORTS PREMIUM CHILE
-http://186.148.196.250:81/play/a0of/index.m3u8
+http://190.83.15.112:8000/play/a0ex/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TYC SPORTS 
-http:\\186.148.196.67:8900\play\a0ar
+http://190.83.15.112:8000/play/a0ec/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", WIN SPORTS
-http:\\152.231.29.139:8000\play\a0g4\index.m3u8
+http:\\181.78.8.199:8000\play\a0cc\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", WIN SPORTS +
 http://152.231.29.139:8000/play/a0je/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN COLOMBIA
@@ -1012,7 +1012,7 @@ http:\\fortv.cc:8080\live\shidarn@yahoo.com\zPNLXyt8sg\10454.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES
 http://38.188.186.47:4000/play/Ji198/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX DEPORTES
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+http:\\216.225.195.132\live\2408afda-ac5d-446c-9b74-7a2fcfa600b0\b75570c0dc3e482b\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", GOLF CHANNEL
 http://45.228.234.62:8000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", MOTORTREND
@@ -1022,7 +1022,7 @@ https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="DEPORTES", TENNIS CHANNEL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN USA
-http://179.60.224.196:8000/play/a0f4/index.m3u8
+http:\\216.225.195.132\live\2408afda-ac5d-446c-9b74-7a2fcfa600b0\24226fe2f64111d9\index.m3u8
 #EXTINF:-1 group-title="DEPORTES", WWE NETWORK
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", YES NETWORK
@@ -1044,7 +1044,7 @@ http://45.228.234.62:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TELEDEPORTE
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 group-title="DEPORTES", BAND SPORTS
-http://45.162.64.114/BAND_SPORTS/index.m3u8
+http://170.83.16.50/BAND_SPORTS/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", DEPORTES TVC HONDURAS
 https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", ACI SPORTS
